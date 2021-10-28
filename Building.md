@@ -1,5 +1,3 @@
-## _It seems like you want to make your own version of YouTube..._
-
 ## Method 1: azule
 
 1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
