@@ -11,19 +11,24 @@
 **A**: Absolutely NOT. The IPA is made for non-jb users.
 ##
 
+**Q**: I can't sign into my Google account!!!
+
+**A**: Try to delete the regular YouTube app, then re-install uYou+. If it doesn't help, try another sideload tool.
+##
+
 **Q**: Why can't I see 2K/4K quality?
 
-**A**: Make sure you enable **YTUHD** in _YouTube Settings => Video quality preferences_
+**A**: Make sure you enable **YTUHD** in **YouTube Settings => Video quality preferences**
 ##
 
 **Q**: Why does it take so long to active PiP? 
 
-**A**: Have you enabled native YouTube PiP in YouTube Settings => General? This is where **YouPiP** shines! 
+**A**: Have you enabled native YouTube PiP in **YouTube Settings => General**? This is where **YouPiP** shines! 
 ##
 
 **Q**: PiP stop playing when I turn off the screen?
 
-**A**: iOS behave. Sorry! Feel free to submit a feedback to Apple ;))
+**A**: iOS behave, sorry! Feel free to submit a feedback to Apple ;))
 ##
 
 **Q**: What is **Legacy PiP**? Should I enable it?
