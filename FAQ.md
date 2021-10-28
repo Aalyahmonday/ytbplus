@@ -8,7 +8,7 @@
 
 **Q**: Does it require jailbroken?
 
-**A**: Absolutely NOT.
+**A**: Absolutely NOT. The IPA is made for non-jb users.
 ##
 
 **Q**: Why can't I see 2K/4K quality?
