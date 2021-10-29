@@ -28,7 +28,7 @@
 
 **Q**: PiP stop playing when I turn off the screen?
 
-**A**: iOS behave, sorry! Feel free to submit a feedback to Apple ;))
+**A**: iOS behave, sorry! Feel free to submit a feedback to Apple.
 ##
 
 **Q**: What is **Legacy PiP**? Should I enable it?
@@ -36,9 +36,9 @@
 **A**: No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.3. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
 ##
 
-**Q**: Why can't I disable Background playback?!? Background playpack is disabled in uYou Settings!
+**Q**: Why can't I disable Background playback?!? I turned off Background playpack in uYou Settings!
 
-**A**: FYI, **YouPiP** enables background playpack by default. Therefore, you can't completely disable background playback.
+**A**: FYI, **YouPiP** enables Background playpack by default. Therefore, you can't completely disable Background playback.
 
 > In case you hate Background playback that much: Extract the IPA, go to `Payload => YouTube.app => Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
 ##
