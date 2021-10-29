@@ -33,7 +33,7 @@
 
 **Q**: What is **Legacy PiP**? Should I enable it?
 
-**A**: No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.3. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
+**A**: No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.4.2. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
 ##
 
 **Q**: Why can't I disable Background playback?!? I turned off Background playpack in uYou Settings!
