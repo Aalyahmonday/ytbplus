@@ -28,7 +28,7 @@ git clone https://github.com/qnblackcat/uYouPlus.git
 ```
 3. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
 
-4. Optional: Modify the app & the tweak the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
+4. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
 
 5. `cd` to the project folder, run:
 ```
