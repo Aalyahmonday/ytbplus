@@ -21,6 +21,11 @@
 **A**: Make sure you enable **YTUHD** in **YouTube Settings => Video quality preferences**
 ##
 
+**Q**: Deep-link (aka **Open in the YouTube app**) doesn't work?
+
+**A**: It's impossible to make deep-link work. However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+##
+
 **Q**: Why does it take so long to active PiP? 
 
 **A**: Have you enabled native YouTube PiP in **YouTube Settings => General**? This is where **YouPiP** shines! 
@@ -43,6 +48,13 @@
 > In case you hate Background playback that much: Extract the IPA, go to `Payload => YouTube.app => Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
 ##
 
+**A**: Why can't receive push notifications?
+
+**Q**: 
+- Push notifications will not work if you use a free developer account. 
+- If you do have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifcations.
+##
+
 **Q**: What is the difference between uYou normal download and uYou Local download?
 
 **A**: MiRO explained it here ([Reddit](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/))
@@ -55,4 +67,4 @@
 
 **Q**: uYou download is not working! (Error 200)
 
-**A**: For appdb users: see [Known issues](#known-issues). For other signing services (ex: Esign...): there is no way to fix it, unfortunately.
+**A**: For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
