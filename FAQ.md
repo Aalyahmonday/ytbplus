@@ -48,7 +48,7 @@
 > In case you hate Background playback that much: Extract the IPA, go to `Payload => YouTube.app => Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
 ##
 
-**A**: Why can't receive push notifications?
+**A**: Why can't I receive push notifications?
 
 **Q**: 
 - Push notifications will not work if you use a free developer account. 
