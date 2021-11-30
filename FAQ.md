@@ -23,7 +23,7 @@
 
 **Q**: Deep-link (aka **Open in the YouTube app**) doesn't work?
 
-**A**: It's impossible to make deep-link work. However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+**A**: It's impossible to make deep-link work. However, you can use this [Shortcut](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 ##
 
 **Q**: Why does it take so long to active PiP? 
