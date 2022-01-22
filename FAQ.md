@@ -8,7 +8,11 @@
 
 **Q**: Does it require jailbroken?
 
-**A**: Absolutely NOT. The IPA is made for non-jb users.
+**A**:NO, IT DOES NOT. The IPA is made for non-jb users.
+##
+
+**Q**: Should I remove the vanilla YouTube?
+**A**: you don‘t have to but you should remove the vanilla YouTube. Keeping it may cause issues with Google Sign-in and Cast to TV
 ##
 
 **Q**: I can't sign into my Google account!!!
@@ -68,3 +72,10 @@
 **Q**: uYou download is not working! (Error 200)
 
 **A**: For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+##
+
+**Q**: Cast to TV not working?
+
+**A**: Remove the vanilla YouTube. 
+##
+
