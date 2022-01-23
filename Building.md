@@ -1,4 +1,4 @@
-## Method 2: theos-jailed
+## Method 1: theos-jailed
 
 1. Setup [theos-jailed](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 
