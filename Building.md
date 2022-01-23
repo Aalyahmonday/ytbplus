@@ -15,6 +15,8 @@ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 make clean package
 ```
 
+6. The IPA is stored in the **packages** folder.
+
 Note:
 - I couldn‘t found a proper way to compile Alderis color picker, so we will use compiled dylib (for now).
 
