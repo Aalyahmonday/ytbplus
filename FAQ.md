@@ -13,7 +13,7 @@
 
 **Q**: Should I remove the vanilla YouTube?
 
-**A**: you don‘t have to but you should remove the vanilla YouTube. Keeping it may cause issues with Google Sign-in and Cast to TV
+**A**: You don‘t have to but you should. Keeping the vanilla YouTube app may cause issues with Google Sign-in and Cast to TV
 ##
 
 **Q**: I can't sign into my Google account!!!
@@ -23,7 +23,7 @@
 
 **Q**: Why can't I see 2K/4K quality?
 
-**A**: Make sure you enable **YTUHD** in **YouTube Settings => Video quality preferences**
+**A**: Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**
 ##
 
 **Q**: Deep-link (aka **Open in the YouTube app**) doesn't work?
@@ -33,12 +33,12 @@
 
 **Q**: Why does it take so long to active PiP? 
 
-**A**: Have you enabled native YouTube PiP in **YouTube Settings => General**? This is where **YouPiP** shines! 
+**A**: Have you enabled native YouTube PiP in **YouTube Settings > General**? This is where **YouPiP** shines! 
 ##
 
-**Q**: PiP stop playing when I turn off the screen?
+**Q**: The app stop playing when I turn off the screen?
 
-**A**: iOS behave, sorry! Feel free to submit a feedback to Apple.
+**A**: I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behave!** Feel free to submit a feedback to Apple.
 ##
 
 **Q**: What is **Legacy PiP**? Should I enable it?
@@ -50,7 +50,7 @@
 
 **A**: FYI, **YouPiP** enables Background playpack by default. Therefore, you can't completely disable Background playback.
 
-> In case you hate Background playback that much: Extract the IPA, go to `Payload => YouTube.app => Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
+> In case you hate Background playback that much: Extract the IPA, go to `Payload > YouTube.app > Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
 ##
 
 **A**: Why can't I receive push notifications?
