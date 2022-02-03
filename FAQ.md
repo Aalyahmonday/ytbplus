@@ -12,6 +12,7 @@
 ##
 
 **Q**: Should I remove the vanilla YouTube?
+
 **A**: you don‘t have to but you should remove the vanilla YouTube. Keeping it may cause issues with Google Sign-in and Cast to TV
 ##
 
