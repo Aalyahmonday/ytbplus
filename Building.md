@@ -2,7 +2,7 @@
 
 1. Setup [theos-jailed](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 
-2. Ensure you have Xcode Command Line Tools installed as well.
+2. Ensure you have Xcode Command Line Tools installed & iOS 15 SDKs in theos/sdks
 
 3. Clone this repo:
 ```
