@@ -1,26 +1,30 @@
 ## Method 1: theos-jailed
+### Requirement
 
-1. Setup [theos-jailed](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
+- Xcode 13+
 
-2. Ensure you have Xcode Command Line Tools installed & iOS 15 SDKs in theos/sdks
+- theos & theos-jailed
 
-3. Clone this repo:
+- iOS 15 SKDs in `theos/sdks`
+
+### Step
+
+1. Clone this repo:
 ```
 git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 ```
-4. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
+2. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
 
-5. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
+3. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
 
-6. `cd` to the project folder, run:
+4. `cd` to the project folder, run:
 ```
 make clean package
 ```
+![Screen Shot 2022-02-15 at 15 37 58](https://user-images.githubusercontent.com/52943116/154024200-f9cf8726-5536-4d68-a649-96649bc99e40.png)
 
-7. The IPA is stored in the **packages** folder.
 
-Note:
-- I couldn‘t found a proper way to compile Alderis color picker, so we will use compiled dylib (for now).
+5. Grab a coffee. The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
 
 ***
 
