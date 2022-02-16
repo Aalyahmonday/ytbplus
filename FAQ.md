@@ -3,7 +3,7 @@
 
 **Q**: How do I install the IPA???
 
-**A**: Use AltStore, Sideloadly, appdb, or whatever you prefer. If you don't know what are these tools, I suggest you learn about **_Sideloading_** on Goolge. 
+**A**: Use AltStore, Sideloadly, appdb, or whatever you prefer. If you don't know what are these tools, I suggest you learn about **_Sideloading_** on Google. 
 ##
 
 **Q**: Does it require jailbroken?
