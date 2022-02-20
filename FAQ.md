@@ -72,7 +72,11 @@
 
 **Q**: uYou download is not working! (Error 200)
 
-**A**: For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+**A**: 
+
+- For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+
+- This also happens with ESign. Unfortunately, there is no fix if you use ESign
 ##
 
 **Q**: Cast to TV not working?
