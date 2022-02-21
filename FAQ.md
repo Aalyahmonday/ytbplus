@@ -70,7 +70,7 @@
 **A**: Well, YouTube slows down the download speed for some reasons. Nothing we can do about it.
 ##
 
-**Q**: uYou download is not working! (Error 200)
+**Q**: uYou download is not working! (Error 200: Unable to move file from…)
 
 **A**: 
 
