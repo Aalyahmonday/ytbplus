@@ -56,8 +56,8 @@
 **A**: Why can't I receive push notifications?
 
 **Q**: 
-- Push notifications will not work if you use a free developer account. 
-- If you do have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifcations.
+- Due to sideload‘s limitation: pussh notifications will not work if you use a free developer account. 
+- If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifcations.
 ##
 
 **Q**: What is the difference between uYou normal download and uYou Local download?
