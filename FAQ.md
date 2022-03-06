@@ -8,7 +8,9 @@
 
 **Q**: Does it require jailbroken?
 
-**A**: NO, IT DOES NOT. The IPA is made for non-jb users. If you are jailbroken, DO NOT use uYou+. All tweaks in uYou+ are available on Cydia.
+**A**: **NO, IT DOES NOT**. The IPA is made for non-jb users. 
+
+> **If you are jailbroken, DO NOT use uYou+**. All tweaks in uYou+ are available on Cydia.
 ##
 
 **Q**: Should I remove the vanilla YouTube?
