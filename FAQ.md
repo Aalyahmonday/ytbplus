@@ -26,6 +26,8 @@
 **Q**: Why can't I see 2K/4K quality?
 
 **A**: Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**
+
+> Note: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder).
 ##
 
 **Q**: Deep-link (aka **Open in the YouTube app**) doesn't work?
