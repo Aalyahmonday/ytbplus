@@ -27,7 +27,7 @@
 
 **A**: Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**
 
-> Note: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder).
+> Note: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). I recommend you leave YTUHD disabled.
 ##
 
 **Q**: Deep-link (aka **Open in the YouTube app**) doesn't work?
