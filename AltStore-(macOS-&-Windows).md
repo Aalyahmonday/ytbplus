@@ -13,6 +13,7 @@ _(The installation process is relatively simple. First, setup AltServer on our P
 ##  macOS:
 ### Requirements:
 - macOS 10.14.4 and up.
+- An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
 - A good internet connection.
 
 ### Step:
@@ -46,6 +47,7 @@ _(The installation process is relatively simple. First, setup AltServer on our P
 - iTunes and iCloud from Apple installed. **AltStore will not work with iTunes & iCloud from Microsoft Store**
   - iTunes: https://www.apple.com/itunes/download/win64
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
+- An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
 - Honestly, I don't like video tutorial. But Vanced Team made a good tutorial how to install uYouPlus [here](https://www.youtube.com/watch?v=WgYmFMTZ6ho).
 
 ### Step:
