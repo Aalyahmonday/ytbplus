@@ -2,8 +2,8 @@ _(The installation process is relatively simple. First, setup AltServer on our P
 
 # Table of Content
 * [Install AltStore](#install-altstore)
-   * [ macOS:](#-macos)
-   * [⊞ Windows:](#-windows)
+   * [ macOS](#-macos)
+   * [⊞ Windows](#-windows)
 * [Install uYouPlus](#install-uyouplus)
 * [Troubleshooting](#troubleshooting)
 
