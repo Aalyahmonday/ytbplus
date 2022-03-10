@@ -100,11 +100,12 @@ _(Well, I don't have anything to say here)_
 <p align="center" width="100%">
     <img width="80%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
 </p>
+
 - The process might take a few minutes. Afer that, you will uYouPlus on your Home Screen 🎉🎉🎉
 
-> - Another method is open the direct download link on uYouPlus homepage: https://github.com/qnblackcat/uYouPlus#download
+> - Another method is open the direct install link on uYouPlus homepage: https://github.com/qnblackcat/uYouPlus#download. Simply open the direct install link and let AltStore does its job. 
 > 
-> - If you have access to AltStore beta, you can my repo from here: `https://qnblackcat.github.io/AltStore/`
+> - If you have access to AltStore beta, you can add my AltStore repo from here: `https://qnblackcat.github.io/AltStore/`
 
 # Refresh uYouPlus
 - Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. At which point it will no longer open (you'll see an error says "**YouTube is no longer available**"). 
