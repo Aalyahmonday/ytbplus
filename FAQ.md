@@ -1,12 +1,12 @@
 **_Hopefully, you will find the answer here!_**
 ***
-### Q: Are you the devloper of uYouPlus?
+### Q: Are you the developer of uYouPlus?
 - I'm just a guy who put all the tweaks which are used in uYouPlus into a YouTube IPA. Anyone can do that if they want to (see [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)). 
 - **In short**: _I'm not the developer of uYouPlus. All the developers in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
 
 ##
 ### Q: I got the IPA. How do I install uYouPlus?
-❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. Of course there are other alternatives, but I only cover AltStore and Sideloadly. 
+❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. Of course, there are other alternatives, but I only cover AltStore and Sideloadly. 
 
 ##
 ### Q: Does it require jailbroken?
@@ -36,21 +36,21 @@
 
 ##
 ### Q: The app stop playing when I turn off the screen?
-❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behave!** Feel free to submit a feedback to Apple.
+❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behave!** Feel free to submit feedback to Apple.
 
 ##
 ### Q: What is **Legacy PiP**? Should I enable it?
 ❖ No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.4.2. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
 
 ##
-### Q: Why can't I disable Background playback?!? I turned off Background playpack in uYou Settings!
-- FYI, **YouPiP** enables Background playpack by default. Therefore, you can't completely disable Background playback.
+### Q: Why can't I disable Background playback?!? I turned off Background playback in uYou Settings!
+- FYI, **YouPiP** enables Background playback by default. Therefore, you can't completely disable Background playback.
 - In case you hate Background playback that much: Extract the IPA, go to `Payload > YouTube.app > Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
 ##
 
 ### Q: Why can't I receive push notifications?
-- Due to sideload‘s limitation: pussh notifications will not work if you use a free developer account. 
-- If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifcations.
+- Due to sideload‘s limitation: push notifications will not work if you use a free developer account. 
+- If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
 
 ##
 ### Q: What is the difference between uYou normal download and uYou Local download?
@@ -58,10 +58,10 @@
 
 ##
 ### Q: Slow download speed?
-❖ Well, YouTube slows down the download speed for some reasons. Let hope MiRO92 can do something about it.
+❖ Well, YouTube slows down the download speed for some reasons. Let's hope MiRO92 can do something about it.
 
 ##
-### Q: uYou download is not working! (Error 200: Unable to move file from…)
+### Q: uYou download is not working! (Error 200: Unable to move a file from…)
 - For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
 - This also happens with ESign. Unfortunately, there is no fix if you use ESign
 
