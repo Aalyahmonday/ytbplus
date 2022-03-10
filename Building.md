@@ -1,5 +1,5 @@
-## Method 1: theos-jailed
-### Requirement
+# Method 1: theos-jailed
+## Requirement
 
 - Xcode 13+
 
@@ -7,17 +7,22 @@
 
 - iOS 15 SKDs in `theos/sdks`
 
-### Step
+## Step
 
 1. Clone this repo:
 ```
 git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 ```
-2. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
+2. Update submodules
+```
+git submodule update --init --recursive
+```
 
-3. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
+3. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
 
-4. `cd` to the project folder, run:
+4. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
+
+5. `cd` to the project folder, run:
 ```
 make clean package
 ```
