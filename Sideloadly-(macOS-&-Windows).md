@@ -1,13 +1,13 @@
 _Sideloadly is an alternative to AltStore. Compare with AltStore, Sideloadly is easier to install but a bit more difficult when refresh app._
 
-# Table of Content
-* [Install AltStore](#install-altstore)
+# Table of Content:
+* [Install uYouPlus using Sideloadly](#install-uyouplus-using-sideloadly)
    * [ macOS](#-macos)
    * [⊞ Windows](#-windows)
-* [Install uYouPlus](#install-uyouplus)
 * [Refresh uYouPlus](#refresh-uyouplus)
 * [Troubleshooting](#troubleshooting)
 
+# Install uYouPlus using Sideloadly
 #  macOS:
 ## Requirements:
 - macOS 10.12 and up.
