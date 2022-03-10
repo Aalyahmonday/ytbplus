@@ -36,6 +36,7 @@ _(I'm sure you know how to install an app on macOS, right?)_
 
 ***
 # ⊞ Windows:
+_(The installation process on Windows is similar to macOS)_
 ## Requirements:
 - Windows 7 or later.
 - iTunes from Apple: https://www.apple.com/itunes/download/win64. Sideloadly will not work with iTunes from Microsoft Store!
