@@ -1,4 +1,14 @@
 _(The installation process is relatively simple. First, setup AltServer on our PC/mac, use AltServer to install AltStore to our devices, then use AltStore to install uYouPlus. Keep in mind that your phone must be connected to your PC/mac during the whole process)._
+
+# Table of Content
+* [Install AltStore](#install-altstore)
+   * [ macOS:](#-macos)
+   * [⊞ Windows:](#-windows)
+* [Install uYouPlus](#install-uyouplus)
+* [Troubleshooting](#troubleshooting)
+
+
+# Install AltStore
 ##  macOS:
 ### Requirements:
 - macOS 10.14.4 and up.
@@ -26,7 +36,7 @@ _(The installation process is relatively simple. First, setup AltServer on our P
 
 ![Screen Shot 2022-03-10 at 13 08 11](https://user-images.githubusercontent.com/52943116/157605666-a65461fc-0f02-4236-8cbd-7655dfba43e3.png)
 
-### ☞ Now head to [Install uYouPlus](#install-uyouplus)
+### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
 
 ***
 ## ⊞ Windows:
@@ -56,11 +66,11 @@ _(Well, I don't have anything to say here)_
 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-6](https://user-images.githubusercontent.com/52943116/157614250-e55bb0e8-f343-47ed-9d92-f1c9dcd00477.png)
-### ☞ Now head to [Install uYouPlus](#install-uyouplus)
+### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
 
 ***
-## Install uYouPlus:
-### 1. Setup AltStore on your iDevice:
+# Install uYouPlus
+## 1. Setup AltStore on your iDevice:
 - AltStore is now installed to your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
@@ -70,7 +80,7 @@ _(Well, I don't have anything to say here)_
 ![IMG_2952](https://user-images.githubusercontent.com/52943116/157608485-f72a2cc0-e42f-46bf-9c7b-c41ceeb5dd85.PNG)
 - Congrats. You've just successfully installed AltStore.  
 
-### 2. Install uYouPlus:
+## 2. Install uYouPlus:
 - Get the latest version of uYouPlus from https://github.com/qnblackcat/uYouPlus/releases. I use Safari but you can use whatever you want to download the IPA. Select AltStore from the Share sheet. 
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
@@ -86,5 +96,5 @@ _(Well, I don't have anything to say here)_
 > 
 > - If you have access to AltStore beta, you can my repo from here: `https://qnblackcat.github.io/AltStore/`
 
-### Troubleshooting
+# Troubleshooting
 - See https://altstore.io/faq/
