@@ -1,5 +1,3 @@
-# AltStore (macOS & Windows)
-
 _(The installation process is relatively simple. First, setup AltServer on our PC/mac, use AltServer to install AltStore to our devices, then use AltStore to install uYouPlus. Keep in mind that your phone must be connected to your PC/mac during the whole process)._
 ##  macOS:
 ### Requirements:
