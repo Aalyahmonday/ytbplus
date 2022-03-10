@@ -61,11 +61,10 @@ _(The installation process on Windows is similar to macOS)_
 
 ***
 # Refresh uYouPlus
-- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. At which point it will no longer open (you'll see an error says "YouTube is no longer available").
-- Unlike AltStore, you don't have a **Refresh apps** button in Sideloadly. In order to refresh uYouPlus, you must connect your phone to your mac/PC (via USB or Wi-fi) and reinstall uYouPlus (repeat the installation process). 
+- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. After 7 days, uYouPlus will no longer open (you'll see an error says "YouTube is no longer available").
+- In order to refresh uYouPlus, you must connect your phone to your mac/PC (via USB or Wi-fi) and reinstall uYouPlus (repeat the installation process). 
 - **DO NOT** delete the current app or you will lose all app's data. 
 
 ***
 # Troubleshooting
 See https://sideloadly.io/#faq
-
