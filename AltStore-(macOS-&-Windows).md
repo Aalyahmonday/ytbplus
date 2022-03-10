@@ -1,4 +1,4 @@
-_The installation process is relatively simple. First, setup AltServer on our PC/mac, use AltServer to install AltStore to our devices, then use AltStore to install uYouPlus. Your phone must be connected to your PC/mac during the whole process._
+_The installation process is relatively simple. First, set up AltServer on our PC/Mac, use AltServer to install AltStore to our devices, then use AltStore to install uYouPlus. Your phone must be connected to your PC/mac during the whole process._
 
 # Table of Content
 * [Install AltStore](#install-altstore)
@@ -14,7 +14,7 @@ _The installation process is relatively simple. First, setup AltServer on our PC
 ### Requirements:
 - macOS 10.14.4 and up.
 - An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
-- An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you wil get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
+- An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 - A good internet connection.
 
 ### Step:
@@ -35,7 +35,7 @@ _The installation process is relatively simple. First, setup AltServer on our PC
 - Plug your phone into your mac. Make sure AltServer and the Mail app are running.
 - Click the AltServer icon in the Mac menu bar, click **Install AltStore**, then choose your phone.
 - Enter the Apple ID when AltStore asks you. 
-- The process might take a few minutes. You'll AltStore on your Home Screen when it done.
+- The process might take a few minutes. You'll AltStore on your Home Screen when it is done.
 
 ![Screen Shot 2022-03-10 at 13 08 11](https://user-images.githubusercontent.com/52943116/157605666-a65461fc-0f02-4236-8cbd-7655dfba43e3.png)
 
@@ -49,8 +49,8 @@ _The installation process is relatively simple. First, setup AltServer on our PC
   - iTunes: https://www.apple.com/itunes/download/win64
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
 - An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
-- An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you wil get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
-- Honestly, I'm not a big fan of video tutorial. But Vanced Team made a good tutorial how to install uYouPlus [here](https://www.youtube.com/watch?v=WgYmFMTZ6ho).
+- An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
+- Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good tutorial on how to install uYouPlus [here](https://www.youtube.com/watch?v=WgYmFMTZ6ho).
 
 ### Step:
 **1. Install iTunes and iCloud**
@@ -68,7 +68,7 @@ _(Well, I don't have anything to say here)_
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-3](https://user-images.githubusercontent.com/52943116/157613799-2e4583f6-62d4-4dba-afa2-0f371b524717.png)
 
 - Enter the Apple ID when AltStore asks you.
-- The process might take a few minutes. You'll AltStore on your Home Screen when it done. 
+- The process might take a few minutes. You'll AltStore on your Home Screen when it is done. 
 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-6](https://user-images.githubusercontent.com/52943116/157614250-e55bb0e8-f343-47ed-9d92-f1c9dcd00477.png)
@@ -77,12 +77,12 @@ _(Well, I don't have anything to say here)_
 ***
 # Install uYouPlus
 ## 1. Setup AltStore on your iDevice:
-- AltStore is now installed to your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
+- AltStore is now installed on your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
 <p align="center" width="100%">
     <img width="50%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
 </p>
 
-- In AltStore, go to `Settings > Sign in with Apple ID`. Enter the Apple ID that was used to install AltStore. If AltStore says **“Could not find AltServer”**, then check if your phone is connected to mac/PC.
+- In AltStore, go to `Settings > Sign in with Apple ID`. Enter the Apple ID that was used to install AltStore. If AltStore says **“Could not find AltServer”**, then check if your phone is connected to Mac/PC.
 <p align="center" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/52943116/157608485-f72a2cc0-e42f-46bf-9c7b-c41ceeb5dd85.PNG">
 </p>
@@ -98,18 +98,18 @@ _(Well, I don't have anything to say here)_
 - I recommend you select **Remove App Extensions** when AltStore asks you. Don't worry, it doesn't affect the app's functions. 
 
 <p align="center" width="100%">
-    <img width="80%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
+    <img width="90%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
 </p>
 
-- The process might take a few minutes. Afer that, you will uYouPlus on your Home Screen 🎉🎉🎉
+- The process might take a few minutes. After that, you will uYouPlus on your Home Screen 🎉🎉🎉
 
 > - Another method is open the direct install link on uYouPlus homepage: https://github.com/qnblackcat/uYouPlus#download. Simply open the direct install link and let AltStore does its job. 
 > 
 > - If you have access to AltStore beta, you can add my AltStore repo from here: `https://qnblackcat.github.io/AltStore/`
 
 # Refresh uYouPlus
-- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. At which point it will no longer open (you'll see an error says "**YouTube is no longer available**"). 
-- To compensate for this, AltStore will periodically attempt to refresh uYouPlus in the background. In order for AltStore to do that, you must connect your phone with your mac/PC via cable or Wi-fi. Then click **Refresh All** in **AltStore > My Apps**
+- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. At which point it will no longer open (you'll see an error that says "**YouTube is no longer available**"). 
+- To compensate for this, AltStore will periodically attempt to refresh uYouPlus in the background. In order for AltStore to do that, you must connect your phone with your Mac/PC via cable or Wi-fi. Then click **Refresh All** in **AltStore > My Apps**
 - To enable Refresh Apps over Wi-fi. Make sure your phone and your mac/PC are on the same network.
   - **macOS:** Open Finder and enable “Show this iPhone when on WiFi” for your phone.
   - **Windows:** Open iTunes and enable iTunes Wi-Fi sync for your phone.
