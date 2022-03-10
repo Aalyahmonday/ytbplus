@@ -75,24 +75,28 @@ _(Well, I don't have anything to say here)_
 ## 1. Setup AltStore on your iDevice:
 - AltStore is now installed to your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
 <p align="center" width="100%">
-    <img width="60%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
+    <img width="50%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
 </p>
 
 - In AltStore, go to `Settings > Sign in with Apple ID`. Enter the Apple ID that was used to install AltStore. If AltStore says **“Could not find AltServer”**, then check if your phone is connected to the mac.
-![IMG_2952](https://user-images.githubusercontent.com/52943116/157608485-f72a2cc0-e42f-46bf-9c7b-c41ceeb5dd85.PNG)
+<p align="center" width="100%">
+    <img width="60%" src="https://user-images.githubusercontent.com/52943116/157608485-f72a2cc0-e42f-46bf-9c7b-c41ceeb5dd85.PNG">
+</p>
+
 - Congrats. You've just successfully installed AltStore.  
 
 ## 2. Install uYouPlus:
 - Get the latest version of uYouPlus from https://github.com/qnblackcat/uYouPlus/releases. I use Safari but you can use whatever you want to download the IPA. Select AltStore from the Share sheet. 
 <p align="center" width="100%">
-    <img width="60%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
+    <img width="70%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
 </p>
 
 - I recommend you select **Remove App Extensions** when AltStore asks you. Don't worry, it doesn't affect the app's functions. 
-- The process might take a few minutes. Afer that, you will uYouPlus on your Home Screen 🎉🎉🎉
+
 <p align="center" width="100%">
     <img width="70%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
 </p>
+- The process might take a few minutes. Afer that, you will uYouPlus on your Home Screen 🎉🎉🎉
 
 > - Another method is open the direct download link on uYouPlus homepage: https://github.com/qnblackcat/uYouPlus#download
 > 
