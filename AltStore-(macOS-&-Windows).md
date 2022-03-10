@@ -67,7 +67,7 @@ _(Well, I don't have anything to say here)_
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-2](https://user-images.githubusercontent.com/52943116/157612964-a125eb08-4c9d-473f-93c1-620b13cfedc0.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-3](https://user-images.githubusercontent.com/52943116/157613799-2e4583f6-62d4-4dba-afa2-0f371b524717.png)
 
-- Enter the Apple ID when AltStore asks you. You can use a spare account, but make sure that account was logged into a device before. Otherwise, you wil get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
+- Enter the Apple ID when AltStore asks you.
 - The process might take a few minutes. You'll AltStore on your Home Screen when it done. 
 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
