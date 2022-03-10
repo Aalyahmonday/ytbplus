@@ -46,6 +46,7 @@ _(The installation process is relatively simple. First, setup AltServer on our P
 - iTunes and iCloud from Apple installed. **AltStore will not work with iTunes & iCloud from Microsoft Store**
   - iTunes: https://www.apple.com/itunes/download/win64
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
+- Honestly, I don't like video tutorial. But Vanced Team made a good tutorial how to install uYouPlus [here](https://www.youtube.com/watch?v=WgYmFMTZ6ho).
 
 ### Step:
 **1. Install iTunes and iCloud**
