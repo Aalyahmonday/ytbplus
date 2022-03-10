@@ -5,7 +5,7 @@ _(The installation process is relatively simple. First, setup AltServer on our P
    * [ macOS](#-macos)
    * [⊞ Windows](#-windows)
 * [Install uYouPlus](#install-uyouplus)
-* [Refresh uYouPlus](#
+* [Refresh uYouPlus](#refresh-uyouplus)
 * [Troubleshooting](#troubleshooting)
 
 
