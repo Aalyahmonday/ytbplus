@@ -82,12 +82,12 @@ _(Well, I don't have anything to say here)_
     <img width="50%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
 </p>
 
-- Now open AltStore, go to `Settings > Sign in with Apple ID`. Enter the Apple ID that was used to install AltStore. If AltStore says **“Could not find AltServer”**, then check if your phone is connected to mac/PC.
+- In AltStore, go to `Settings > Sign in with Apple ID`. Enter the Apple ID that was used to install AltStore. If AltStore says **“Could not find AltServer”**, then check if your phone is connected to mac/PC.
 <p align="center" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/52943116/157608485-f72a2cc0-e42f-46bf-9c7b-c41ceeb5dd85.PNG">
 </p>
 
-- Congrats. You've just successfully installed AltStore.  
+- Congrats 🎉 You've just successfully configured AltStore.  
 
 ## 2. Install uYouPlus:
 - Get the latest version of uYouPlus from https://github.com/qnblackcat/uYouPlus/releases. I use Safari but you can use whatever you want to download the IPA. Select AltStore from the Share sheet. 
