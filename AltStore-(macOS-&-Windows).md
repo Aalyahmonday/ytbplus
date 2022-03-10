@@ -94,7 +94,7 @@ _(Well, I don't have anything to say here)_
 - I recommend you select **Remove App Extensions** when AltStore asks you. Don't worry, it doesn't affect the app's functions. 
 
 <p align="center" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
+    <img width="80%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
 </p>
 - The process might take a few minutes. Afer that, you will uYouPlus on your Home Screen 🎉🎉🎉
 
