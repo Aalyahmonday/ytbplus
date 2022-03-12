@@ -90,7 +90,7 @@ _(Well, I don't have anything to say here)_
 - Congrats 🎉 You've just successfully configured AltStore.  
 
 ## 2. Install uYouPlus:
-- Get the latest version of uYouPlus from https://github.com/qnblackcat/uYouPlus/releases. I use Safari but you can use whatever you want to download the IPA. Select AltStore from the Share sheet. 
+- Get the latest version of uYouPlus from the [Release page](https://github.com/qnblackcat/uYouPlus/releases/latest). I use Safari but you can use whatever you want to download the IPA. Select AltStore from the Share sheet. 
 <p align="center" width="100%">
     <img width="70%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
 </p>
