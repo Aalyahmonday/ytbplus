@@ -29,7 +29,7 @@ make clean package
 ![Screen Shot 2022-02-15 at 15 37 58](https://user-images.githubusercontent.com/52943116/154024200-f9cf8726-5536-4d68-a649-96649bc99e40.png)
 
 
-6. Grab a coffee. The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
+6. Grab a coffee ☕️ The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
 
 ***
 
