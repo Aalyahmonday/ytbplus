@@ -5,7 +5,7 @@
 
 - theos & theos-jailed
 
-- iOS 15 SKDs in `theos/sdks`
+- iOS 15 SDKs in `theos/sdks`
 
 ## Step
 
@@ -13,7 +13,7 @@
 ```
 git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 ```
-2. Update submodules
+2. Update submodules:
 ```
 cd uYouPlus && git submodule update --init --recursive
 ```
@@ -22,7 +22,7 @@ cd uYouPlus && git submodule update --init --recursive
 
 4. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
 
-5. `cd` to the project folder, run:
+5. In the project root folder, run:
 ```
 make clean package
 ```
