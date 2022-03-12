@@ -55,7 +55,7 @@
 
 ***
 ### Q: Why can't I receive push notifications?
-- Due to sideload‘s limitation: push notifications will not work if you use a free developer account. 
+- Push notifications will not work if you use a free developer account (limitation of sideload).
 - If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
 
 ***
