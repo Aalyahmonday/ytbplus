@@ -1,4 +1,4 @@
-_The installation process is relatively simple. First, set up AltServer on our PC/Mac, use AltServer to install AltStore to our devices, then use AltStore to install uYouPlus. Your phone must be connected to your PC/mac during the whole process._
+_The installation process is relatively simple. First, set up AltServer on our PC/Mac, use AltServer to install AltStore to your devices, then use AltStore to install uYouPlus. Your phone must be connected to your PC/mac during the whole process._
 
 # Table of Content
 * [Install AltStore](#install-altstore)
@@ -15,7 +15,6 @@ _The installation process is relatively simple. First, set up AltServer on our P
 - macOS 10.14.4 and up.
 - An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
-- A good internet connection.
 
 ### Step:
 **1. Get AltStore for macOS from** https://altstore.io/
@@ -32,10 +31,10 @@ _The installation process is relatively simple. First, set up AltServer on our P
 </p>
 
 **4. Install AltStore to your iDevice:**
-- Plug your phone into your mac. Make sure AltServer and the Mail app are running.
+- Plug your phone into your Mac. Make sure AltServer and the Mail app are running.
 - Click the AltServer icon in the Mac menu bar, click **Install AltStore**, then choose your phone.
 - Enter the Apple ID when AltStore asks you. 
-- The process might take a few minutes. You'll AltStore on your Home Screen when it is done.
+- The process might take a few minutes. You'll see AltStore on your Home Screen when it is done.
 
 ![Screen Shot 2022-03-10 at 13 08 11](https://user-images.githubusercontent.com/52943116/157605666-a65461fc-0f02-4236-8cbd-7655dfba43e3.png)
 
@@ -50,7 +49,6 @@ _The installation process is relatively simple. First, set up AltServer on our P
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
 - An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
-- Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good tutorial on how to install uYouPlus [here](https://www.youtube.com/watch?v=WgYmFMTZ6ho).
 
 ### Step:
 **1. Install iTunes and iCloud**
@@ -72,6 +70,10 @@ _(Well, I don't have anything to say here)_
 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-6](https://user-images.githubusercontent.com/52943116/157614250-e55bb0e8-f343-47ed-9d92-f1c9dcd00477.png)
+
+_**Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good video tutorial on how to install uYouPlus here.**_
+> [![Install uYouPlus on Windows](https://yt-embed.herokuapp.com/embed?v=WgYmFMTZ6ho)](https://www.youtube.com/watch?v=WgYmFMTZ6ho "Install uYouPlus on Windows")
+
 ### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
 
 ***
