@@ -42,16 +42,16 @@
 
 ***
 ### Q: The app stop playing when I turn off the screen?
-❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behave!** Feel free to submit feedback to Apple.
+❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behavior!** Feel free to submit feedback to Apple.
 
 ***
 ### Q: What is **Legacy PiP**? Should I enable it?
 ❖ No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.4.2. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
 
 ***
-### Q: Why can't I disable Background playback?!? I turned off Background playback in uYou Settings!
-- FYI, **YouPiP** enables Background playback by default. Therefore, you can't completely disable Background playback.
-- In case you hate Background playback that much: Extract the IPA, go to `Payload > YouTube.app > Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or you can just make your own version without YouPiP.
+### Q: Why can't I disable Background playback?!? I turned off Background playback in uYou's settings!
+- In order to enable native Picture in Picture, Background playback must be enabled by **YouPiP**. Therefore, YouTube is still running in  Background even when you disable Background playback in uYou's settings.
+- If you hate Background playback that much: Extract the IPA, go to `Payload > YouTube.app > Frameworks`, delete **YouPiP.dylib**, and then re-create the IPA. Or just [build](https://github.com/qnblackcat/uYouPlus/wiki/Building) your own version of uYouPlus without YouPiP.
 
 ***
 ### Q: Why can't I receive push notifications?
