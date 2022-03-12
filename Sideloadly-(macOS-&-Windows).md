@@ -61,10 +61,10 @@ _(The installation process on Windows is similar to macOS)_
 
 ***
 # Refresh uYouPlus
-- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. After 7 days, uYouPlus will no longer open (you'll see an error that says "YouTube is no longer available").
+- Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. After 7 days, uYouPlus will no longer open (you'll see an error that says **YouTube is no longer available**).
 - In order to refresh uYouPlus, you must connect your phone to your Mac/PC (via USB or Wi-fi) and reinstall uYouPlus (repeat the installation process). 
 - **DO NOT** delete the current app or you will lose all app's data. 
 
 ***
 # Troubleshooting
-See https://sideloadly.io/#faq
+See [Sideloadly - FAQ](https://sideloadly.io/#faq)
