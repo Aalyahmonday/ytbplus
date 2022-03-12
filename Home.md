@@ -1,6 +1,5 @@
 Welcome to the uYouPlus wiki!
 
-# uYouPlus wiki
 ## [FAQ](FAQ)
 
 ## [Installation](Installation)
