@@ -1,7 +1,7 @@
 # Method 1: theos-jailed
 ## Requirement
 
-- Xcode 13+
+- Xcode 13+ & Xcode Command Line Tools
 
 - theos & theos-jailed
 
