@@ -1,12 +1,10 @@
 # Method 1: theos-jailed
-## Requirement
-
+## Requirement:
 - Xcode 13+ & Xcode Command Line Tools
 - theos & theos-jailed
 - iOS 15 SDKs in `theos/sdks`
 
-## Step
-
+## Step:
 1. Clone this repo:
 ```
 git clone --recursive https://github.com/qnblackcat/uYouPlus.git
@@ -31,7 +29,6 @@ make clean package
 ***
 
 ## Method 2: azule
-
 1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
 2. Download all the tweaks you want to inject. 
 - [iOS Repo Updates](https://www.ios-repo-updates.com/) is a trust-able source. [cydownload](https://github.com/borishonman/cydownload) and [Windows Repo Tool](https://github.com/SarahH12099/Windows-Repo-Tool) are good alternatives.
