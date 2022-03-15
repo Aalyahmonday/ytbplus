@@ -13,7 +13,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 ##  macOS:
 ### Requirements:
 - macOS 10.14.4 and up.
-- An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
+- An iOS/iPadOS device running iOS 13 and later (because uYouPlus requires iOS/iPadOS 13+).
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
 ### Step:
@@ -47,7 +47,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 - iTunes and iCloud from Apple installed. **AltStore will not work with iTunes & iCloud from Microsoft Store**
   - iTunes: https://www.apple.com/itunes/download/win64
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
-- An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS/iPadOS 13+)_
+- An iOS/iPadOS device running iOS 13 and later (because uYouPlus requires iOS/iPadOS 13+).
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
 ### Step:
