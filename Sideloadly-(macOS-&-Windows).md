@@ -11,7 +11,7 @@ _Sideloadly is an alternative to AltStore. Compare with AltStore, Sideloadly is 
 #  macOS:
 ## Requirements:
 - macOS 10.12 and up.
-- An iOS/iPadOS that is running iOS 13+ _(because uYouPlus requires iOS 13+)_
+- An iOS/iPadOS running iOS 13+ _(because uYouPlus requires iOS 13+)_
 - The latest uYouPlus IPA on your mac from https://github.com/qnblackcat/uYouPlus/releases
 - An Apple ID that was logged into an iDevice before. A brand new Apple ID will not work.
 
