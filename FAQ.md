@@ -69,7 +69,7 @@
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
 - For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
-- This also happens with ESign. Unfortunately, there is no fix if you use ESign
+- This also happens with ESign. Unfortunately, there is no fix for ESign, but you can try to use the _**Apple Developer certificate**_ instead of the _**Apple Distribution certificate**_.
 
 ***
 ### Q: Cast to TV not working?
