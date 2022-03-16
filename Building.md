@@ -11,7 +11,7 @@ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 ```
 2. Update submodules:
 ```
-cd uYouPlus && git submodule update --init --recursive
+cd ./uYouPlus && git submodule update --init --recursive
 ```
 
 3. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
