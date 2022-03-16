@@ -5,4 +5,8 @@
 • [AltStore (macOS & Windows)](AltStore-(macOS-&-Windows))
 
 • [Sideloadly (macOS & Windows)](Sideloadly-(macOS-&-Windows))
+
+• [AltServer-Linux (Linux)](AltServer-Linux-(Linux))
+
+• [Xcode & iOS App Signer (macOS)](Xcode-&-iOS-App-Signer-(macOS))
 ## [Building](Building)
