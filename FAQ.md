@@ -76,3 +76,5 @@
 ❖ Remove the vanilla YouTube. 
 
 ***
+### Q: How many App ID does uYouPlus take? (AltStore)
+❖ When sideloading uYouPlus via AltStore, uYouPlus will take 5 App IDs by default. However, uYouPlus actually doesn't need that much App IDs, **just one App ID is enough**. Simply select **Remove App Extensions** when AltStore asks you. Don't worry, removing App Extensions doesn't affect the function of uYouPlus.
