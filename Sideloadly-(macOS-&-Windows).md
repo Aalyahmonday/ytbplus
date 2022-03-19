@@ -22,10 +22,15 @@ _(I'm sure you know how to install an app on macOS, right?)_
 
 ### 2. Install uYouPlus
 - Open Sideloadly & connect your phone to your Mac via USB.
-> Tip: To enable Wi-Fi sideloading your iDevice, please make sure your computer & iOS device are connected to the same network. Then you will need to initially connect your device via USB and follow these instructions depending on your OS:
-> - macOS Catalina and up: Finder > Select your iDevice under 'Locations' > General > Enable "Show this iDevice when on Wi-Fi" option > Sync & Done.
-> 
-> - macOS Mojave and below: Open iTunes > Connected Device > Summary > Options > Enable "Sync with this iDevice over Wi-Fi" option > Sync & Done.
+<details>
+  <summary>(Tip: How to enable Wi-Fi sideloading)</summary>
+
+To enable Wi-Fi sideloading your iDevice, please make sure your computer & iOS device are connected to the same network. Then you will need to initially connect your device via USB and follow these instructions depending on your OS:
+> macOS Catalina and up: Finder > Select your iDevice under 'Locations' > General > Enable "Show this iDevice when on Wi-Fi" option > Sync & Done.
+>
+> macOS Mojave and below: Open iTunes > Connected Device > Summary > Options > Enable "Sync with this iDevice over Wi-Fi" option > Sync & Done.
+</details>
+
 - Select your phone in the iDevice windows.
 - Enter your Apple ID in the Apple account field. Password will be asked later.
 - Drag & drop uYouPlus IPA to the IPA windows.
@@ -50,7 +55,12 @@ _(The installation process on Windows is similar to macOS)_
 
 ### 2. Install uYouPlus
 - Open Sideloadly & connect your phone to your Mac via USB.
-> Tip: To enable Wi-Fi sideloading your iDevice, please make sure your computer & iOS device are connected to the same network. Then you will need to initially connect your device via USB and enable Wi-fi sync in: iTunes > Connected Device > Summary > Options > Sync with this iDevice over Wi-Fi > Sync & Done.
+<details>
+  <summary>(Tip: How to enable Wi-Fi sideloading)</summary>
+
+> To enable Wi-Fi sideloading your iDevice, please make sure your computer & iOS device are connected to the same network. Then you will need to initially connect your device via USB and enable Wi-fi sync in: iTunes > Connected Device > Summary > Options > Sync with this iDevice over Wi-Fi > Sync & Done.
+</details>
+
 - Select your phone in the iDevice windows.
 - Enter your Apple ID in the Apple account field. Password will be asked later.
 - Drag & drop uYouPlus IPA to the IPA windows.
