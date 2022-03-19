@@ -14,19 +14,16 @@ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 cd ./uYouPlus && git submodule update --init --recursive
 ```
 
-3. **Important:** Open `Makefile` and edit the path to your decrypted YouTube IPA. 
+3. Make the `buildapp.sh` script executable
 ```
-open ./Makefile
+chmod +x ./buildapp.sh
 ```
-
-4. Optional: Customize the app the way you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage).
-
-5. In the project root folder, run:
+4. _Optional: add or remove any tweaks you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage)._
+5. Run the script and Drag & Drop the decrypted YouTube IPA into the terminal window when it asks you
 ```
-make clean package
+./buildapp.sh
 ```
-
-6. Grab a coffee ☕️ The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
+✔︎ That's it! Grab a coffee ☕️ The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
 ![Screen Shot 2022-02-15 at 15 37 58](https://user-images.githubusercontent.com/52943116/154024200-f9cf8726-5536-4d68-a649-96649bc99e40.png)
 
 ***
