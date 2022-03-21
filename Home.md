@@ -9,5 +9,4 @@ Welcome to the uYouPlus wiki!
 
 • [Xcode & iOS App Signer (macOS)](https://github.com/qnblackcat/uYouPlus/wiki/Xcode-&-iOS-App-Signer-(macOS))
 
-• [AltServer-Linux (Linux)](https://github.com/qnblackcat/uYouPlus/wiki/AltServer-Linux-(Linux))
 ## [Building](Building)
