@@ -6,7 +6,7 @@
 
 ***
 ### Q: I got the IPA. How do I install uYouPlus?
-❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. Of course, there are other alternatives, but I only cover AltStore and Sideloadly. 
+❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. 
 
 ***
 ### Q: Does it require jailbroken?
@@ -16,7 +16,7 @@
 ***
 ### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**
 
-- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expire date in AltStore). For now, please re-install AltStore & uYouPlus. 
+- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus. 
 - How to Refresh apps? [AltStore](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows)#refresh-uyouplus)/[Sideloadly](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus)
 
 ***
@@ -34,7 +34,10 @@
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
-❖ It's impossible to make deep-link work. However, you can use this [Shortcut](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
+It's impossible to make deep-link work. Fortunately, there are a few workarounds:
+- iOS 14: You can use this [Shortcut](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (not tested on iOS 13). 
+**Credit: RandomAccessMemories#5025**
+- iOS 15: iOS 15 users can follow this workaround (Safari extension + Userscript): https://github.com/qnblackcat/uYouPlus/issues/69. Thanks [Albert Portnoy](https://github.com/asportnoy) for his solution!
 
 ***
 ### Q: Why does it take so long to active PiP? 
