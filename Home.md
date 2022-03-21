@@ -1,4 +1,4 @@
-# uYouPlus wiki
+# 📖 uYouPlus wiki 📖
 ## [FAQ](FAQ)
 ## [Installation](Installation)
 - [AltStore (macOS & Windows & Linux)](AltStore-(macOS-&-Windows-&-Linux))
