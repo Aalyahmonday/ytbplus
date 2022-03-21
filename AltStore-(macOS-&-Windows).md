@@ -4,6 +4,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 * [Install AltStore](#install-altstore)
    * [ macOS](#-macos)
    * [⊞ Windows](#-windows)
+   * [Linux](#-linux)
 * [Install uYouPlus](#install-uyouplus)
 * [Refresh uYouPlus](#refresh-uyouplus)
 * [Troubleshooting](#troubleshooting)
@@ -75,6 +76,16 @@ _**Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good v
 > [![Install uYouPlus on Windows](https://yt-embed.herokuapp.com/embed?v=WgYmFMTZ6ho)](https://www.youtube.com/watch?v=WgYmFMTZ6ho "Install uYouPlus on Windows")
 
 ### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
+***
+
+## 🐧 Linux
+### AltServer-Linux
+- AltServer doesn't support Linux by default. Thanks [@NyaMisty](https://twitter.com/MiscMisty) to port AltServer to Linux. As far as I know, this is the only sideload tool that supports Linux OS. AltServer-Linux is open source and you can see its source code here: https://github.com/NyaMisty/AltServer-Linux
+- Since Linux is not my main OS, I'm afraid I can't help you much. However, if Linux is your main OS, I'm sure you know how to configure it properly.
+- Note that you may need to compile from the source to build the latest version of AltServer-Linux.
+
+### AltServer-LinuxGUI
+- If you prefer GUI mode rather than CLI mode, [@powenn](https://twitter.com/powen00hsiao) made a GUI version of AltServer-Linux: https://github.com/powenn/AltServer-LinuxGUI
 
 ***
 # Install uYouPlus
