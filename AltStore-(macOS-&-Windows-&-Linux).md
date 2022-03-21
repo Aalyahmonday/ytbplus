@@ -89,8 +89,9 @@ _**Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good v
 
 ***
 # Install uYouPlus
-## 1. Setup AltStore on your iDevice:
-- AltStore is now installed on your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
+_✔︎ Now that you have AltStore installed on your iDevice, Let's start installing uYouPlus_
+## 1. Configure AltStore:
+- AltStore is installed on your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
 <p align="center" width="100%">
     <img width="50%" src="https://user-images.githubusercontent.com/52943116/157607556-fcf5e9d8-9187-4db9-a9da-3acd50f1ab9f.PNG">
 </p>
