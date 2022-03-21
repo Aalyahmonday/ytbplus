@@ -2,7 +2,7 @@
 ## [FAQ](FAQ)
 
 ## [Installation](Installation)
-• [AltStore (macOS & Windows)](AltStore-(macOS-&-Windows-&-Linux))
+• [AltStore (macOS & Windows & Linux)](AltStore-(macOS-&-Windows-&-Linux))
 
 • [Sideloadly (macOS & Windows)](Sideloadly-(macOS-&-Windows))
 
