@@ -1,6 +1,6 @@
 # 📖 uYouPlus wiki 📖
-## [FAQ](FAQ)
-## [Installation](Installation)
+## ☞ [FAQ](FAQ)
+## ☞ [Installation](Installation)
 - [AltStore (macOS & Windows & Linux)](AltStore-(macOS-&-Windows-&-Linux))
   - [macOS](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#-macos)
   - [Windows](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#-windows)
@@ -10,4 +10,4 @@
   - [Windows](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#-windows)
 - [Xcode & iOS App Signer (macOS)](Xcode-&-iOS-App-Signer-(macOS))
 
-## [Building](Building)
+## ☞ [Building](Building)
