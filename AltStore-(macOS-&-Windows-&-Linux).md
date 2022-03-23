@@ -1,4 +1,4 @@
-_The installation process is pretty straightforward. First, set up AltServer on your PC/Mac, use AltServer to install AltStore to your devices, then use AltStore to install uYouPlus. Your phone must be connected to your PC/mac during the whole process._
+_The installation process is pretty straightforward. First, set up AltServer on your PC/Mac, use AltServer to install AltStore to your devices, then use AltStore to install uYouPlus. Your iDevice must be connected to your PC/mac during the whole process._
 
 # Table of Content
 * [Install AltStore](#install-altstore)
