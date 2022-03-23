@@ -62,7 +62,6 @@ _(Well, I don't have anything to say here)_
 **3. Install AltStore to your phone**
 - Plug your phone into your PC/Laptop.
 - Open AltServer (it will appear as an icon in the Notification Area). Click **Install AltStore** and select your phone.
-
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-2](https://user-images.githubusercontent.com/52943116/157612964-a125eb08-4c9d-473f-93c1-620b13cfedc0.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-3](https://user-images.githubusercontent.com/52943116/157613799-2e4583f6-62d4-4dba-afa2-0f371b524717.png)
 
@@ -80,12 +79,16 @@ _**Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good v
 
 ## 🐧 Linux
 ### AltServer-Linux
-- AltServer doesn't support Linux by default. Thanks [@NyaMisty](https://twitter.com/MiscMisty) to port AltServer to Linux. As far as I know, this is the only sideload tool that supports Linux OS. AltServer-Linux is open source and you can see its source code here: https://github.com/NyaMisty/AltServer-Linux
+- AltServer doesn't support Linux by default. Thanks [@NyaMisty](https://twitter.com/MiscMisty) to port AltServer to Linux OS. AltServer-Linux is open source and you can see its source code here: https://github.com/NyaMisty/AltServer-Linux
 - Since Linux is not my main OS, I'm afraid I can't help you much. However, if Linux is your main OS, I'm sure you know how to configure it properly.
 - Note that you may need to compile from the source to build the latest version of AltServer-Linux.
 
 ### AltServer-LinuxGUI
 - If you prefer GUI mode rather than CLI mode, [@powenn](https://twitter.com/powen00hsiao) made a GUI version of AltServer-Linux: https://github.com/powenn/AltServer-LinuxGUI
+
+### ZSign
+- ZSign in fact can run on macOS, Windows, and Linux. However, it’s not a user-friendly tool since it only has CLI mode. The instruction of ZSign is detailed here:
+https://github.com/zhlynn/zsign
 
 ***
 # Install uYouPlus
