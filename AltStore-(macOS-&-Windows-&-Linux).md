@@ -71,8 +71,6 @@ _(Well, I don't have anything to say here)_
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-6](https://user-images.githubusercontent.com/52943116/157614250-e55bb0e8-f343-47ed-9d92-f1c9dcd00477.png)
 
-_**Honestly, I'm not a big fan of video tutorials. But Vanced Team made a good video tutorial on how to install uYouPlus here.**_
-> [![Install uYouPlus on Windows](https://yt-embed.herokuapp.com/embed?v=WgYmFMTZ6ho)](https://www.youtube.com/watch?v=WgYmFMTZ6ho "Install uYouPlus on Windows")
 
 ### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
 ***
