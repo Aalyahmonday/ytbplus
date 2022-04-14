@@ -11,7 +11,7 @@ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
 ```
 2. Update submodules:
 ```
-cd ./uYouPlus && git submodule update --init --recursive
+cd ./uYouPlus && git submodule update --remote --merge
 ```
 
 3. Make the `buildapp.sh` script executable
