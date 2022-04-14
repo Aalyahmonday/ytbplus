@@ -15,7 +15,7 @@
 
 ***
 ### Q: How do I refresh uYouPlus?
-- AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows)#refresh-uyouplus).
+- AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#refresh-uyouplus).
 - Sideloadly users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
 ***
 ### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**. 
