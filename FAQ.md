@@ -14,10 +14,14 @@
 - **_If you are jailbroken, DO NOT use uYou+_**. All tweaks in uYou+ are available on Cydia.
 
 ***
-### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**
+### Q: How do I refresh uYouPlus?
+- AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows)#refresh-uyouplus).
+- Sideloadly users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
+***
+### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**. 
 
-- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus. 
-- How to Refresh apps? [AltStore](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows)#refresh-uyouplus)/[Sideloadly](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus)
+- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus.
+- How to Refresh apps? See the answer above.
 
 ***
 ### Q: Should I remove the vanilla YouTube?
