@@ -38,10 +38,11 @@
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
-It's impossible to make deep-link work. Fortunately, there are a few workarounds:
-- iOS 14: You can use this [Shortcut](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (not tested on iOS 13). 
-**Credit: RandomAccessMemories#5025**
-- iOS 15: iOS 15 users can follow this workaround (Safari extension + Userscript): https://github.com/qnblackcat/uYouPlus/issues/69. Thanks [Albert Portnoy](https://github.com/asportnoy) for his solution!
+- It's impossible to fix deep-link (aka Open in the YouTube App). However, there are several workarounds:
+  - [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. uYouPlus included **Open in YouTube Extensions** by default so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately.
+  - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
+  - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
+  - [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
 
 ***
 ### Q: Why does it take so long to active PiP? 
@@ -84,4 +85,4 @@ It's impossible to make deep-link work. Fortunately, there are a few workarounds
 
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
-❖ When sideloading uYouPlus via AltStore, uYouPlus will take 5 App IDs by default. However, uYouPlus actually doesn't need that much App IDs, **just one App ID is enough**. Simply select **Remove App Extensions** when AltStore asks you. Don't worry, removing App Extensions doesn't affect the function of uYouPlus.
+❖ When sideloading uYouPlus via AltStore, uYouPlus will take 3 App IDs by default. One app IDs for the app itself, and two app IDs for [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions/). See [
