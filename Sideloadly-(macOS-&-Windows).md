@@ -36,6 +36,8 @@ To enable Wi-Fi sideloading your iDevice, please make sure your computer & iOS d
 - Drag & drop uYouPlus IPA to the IPA windows.
 - Click **Start** and enter the password. The process might take several minutes. Just let Sideloadly does its job.
 - Viola! uYouPlus is now on your Home Screen 🎉🎉🎉
+- **Attention**: **Remove App Extensions (PlugIns) is not recommened** since it will remove the ability to use Open in YouTube shortcut & Open in YouTube Extension (https://github.com/CokePokes/YoutubeExtensions).
+
 
 ![Screen Shot 2022-03-10 at 16 36 02](https://user-images.githubusercontent.com/52943116/157633815-85df567e-a99c-4e25-92b6-89e149b0062b.png)
 
@@ -66,6 +68,7 @@ _(The installation process on Windows is similar to macOS)_
 - Drag & drop uYouPlus IPA to the IPA windows.
 - Click **Start** and enter the password. The process might take several minutes. Just let Sideloadly does its job.
 - Viola! uYouPlus is now on your Home Screen 🎉🎉🎉
+- **Attention**: **Remove App Extensions (PlugIns) is not recommened** since it will remove the ability to use Open in YouTube shortcut & Open in YouTube Extension (https://github.com/CokePokes/YoutubeExtensions).
 
 ![Sideloadly Logs](https://user-images.githubusercontent.com/52943116/157637219-0dead48a-ce45-47ec-8aea-4fa506b10784.png)
 
