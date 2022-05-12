@@ -2,14 +2,14 @@
 ## Requirement:
 - Xcode 13+ & Xcode Command Line Tools
 - theos & theos-jailed
-- iOS 15 SDKs in `theos/sdks`
+- iOS 15 SDK in `theos/sdks`
 
 ## Step:
 1. Clone this repo: `git clone --recursive https://github.com/qnblackcat/uYouPlus.git`
 2. Update submodules: `cd ./uYouPlus && git submodule update --remote --merge`
 3. Make the `buildapp.sh` script executable: `chmod +x ./buildapp.sh`
-4. _Optional: add or remove any tweaks you want. I highly recommend you take a look at the [theos-jailed wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage)._
-5. Run the script and Drag & Drop the decrypted YouTube IPA into the terminal window when it asks you: `./buildapp.sh`
+4. _Optional: add or remove any tweaks you want. I highly recommend you take a look at the theos-jailed [wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage)._
+5. Run the buildapp script: `./buildapp.sh`, and drag & drop the decrypted YouTube IPA into the terminal window when it asks you:
 
 ```
 git clone --recursive https://github.com/qnblackcat/uYouPlus.git
@@ -23,7 +23,7 @@ chmod +x ./buildapp.sh
 
 ***
 
-## Method 2: Azule 
+# Method 2: Azule 
 **_Notes: some features of uYouPlus will be missing if you use Azule_**
 1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
 2. Download all the tweaks you want to inject. 
