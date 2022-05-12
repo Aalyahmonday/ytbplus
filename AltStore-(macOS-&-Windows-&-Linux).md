@@ -62,6 +62,7 @@ _(Well, I don't have anything to say here)_
 **3. Install AltStore to your phone**
 - Plug your phone into your PC/Laptop.
 - Open AltServer (it will appear as an icon in the Notification Area). Click **Install AltStore** and select your phone.
+
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-2](https://user-images.githubusercontent.com/52943116/157612964-a125eb08-4c9d-473f-93c1-620b13cfedc0.png) 
 ![huong-dan-tu-sideload-unc0ver-bang-altstore-3](https://user-images.githubusercontent.com/52943116/157613799-2e4583f6-62d4-4dba-afa2-0f371b524717.png)
 
@@ -89,7 +90,7 @@ _(Well, I don't have anything to say here)_
 https://github.com/zhlynn/zsign
 
 ***
-# Install uYouPlus
+# Installing uYouPlus
 _✔︎ Now that you have AltStore installed on your iDevice, Let's start installing uYouPlus_
 ## 1. Configure AltStore:
 - AltStore is installed on your phone, but you can't open it right now. To fix that, go to `Settings > General > Profile & Device Management`. There will be a profile with your account name in here. After you trust the profile, AltStore can be opened.
@@ -110,7 +111,7 @@ _✔︎ Now that you have AltStore installed on your iDevice, Let's start instal
     <img width="70%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
 </p>
 
-- I recommend you select **Remove App Extensions** when AltStore asks you. Don't worry, it doesn't affect the app's functions. 
+- **Remove App Extensions is not recommened** since it will remove the ability to use *Open in YouTube shortcut* & *Open in YouTube Extension* (https://github.com/CokePokes/YoutubeExtensions). uYouPlus will take 3 app IDs in total.  
 
 <p align="center" width="100%">
     <img width="90%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
