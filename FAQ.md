@@ -40,11 +40,11 @@
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
-- It's impossible to fix deep-link (aka Open in the YouTube App). However, there are several workarounds:
-  - [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. uYouPlus included **Open in YouTube Extensions** by default, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
-    - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
-    - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
-  - [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
+It's impossible to fix deep-link (aka Open in the YouTube App). However, there are several workarounds:
+- [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. uYouPlus included **Open in YouTube Extensions** by default, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
+  - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
+  - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
+- [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
 
 ***
 ### Q: Why does it take so long to active PiP? 
@@ -85,6 +85,11 @@
 ***
 ### Q: Cast to TV not working?
 ❖ Remove the vanilla YouTube. 
+
+***
+### Q: I see ads when casting to TV?
+❖ Let's make it simple: Cast to TV means you tell your TV play a video. But your TV loads that video directly from YouTube, not from your phone. 
+❖ If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
 
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
