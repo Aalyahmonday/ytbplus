@@ -17,19 +17,21 @@
 ### Q: How do I refresh uYouPlus?
 - AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#refresh-uyouplus).
 - Sideloadly users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
+
 ***
 ### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**. 
-
 - Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus.
 - How to Refresh apps? See the answer above.
 
 ***
 ### Q: Should I remove the vanilla YouTube?
-❖ You don‘t have to but you should. Keeping the vanilla YouTube app may cause issues with Google Sign-in and Cast to TV
+❖ You don‘t have to but you should. Keeping the vanilla YouTube app may cause issues with Cast to TV.
 
 ***
 ### Q: I can't sign into my Google account!!!
-❖ Try to delete the regular YouTube app, then re-install uYou+. If it doesn't help, try another sideload tool.
+❖ If you're using a paid sigining service: contact them and ask "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
+❖ If you're using your own paid developer account: generate a **Wildcard** profile, which allows you to use the default bundle ID of YouTube. 
+❖ This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
 
 ***
 ### Q: Why can't I see 2K/4K quality?
@@ -50,7 +52,7 @@
 
 ***
 ### Q: The app stop playing when I turn off the screen?
-❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behavior!** Feel free to submit feedback to Apple.
+❖ I‘m pretty sure you have PiP enabled. PiP will stop playing when you lock the screen. **This is iOS behavior!** Feel free to send a feedback to Apple.
 
 ***
 ### Q: What is **Legacy PiP**? Should I enable it?
@@ -67,8 +69,9 @@
 - If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
 
 ***
-### Q: What is the difference between uYou normal download and uYou Local download?
+### Q: What is the difference between uYou normal download and uYouLocal download?
 ❖ MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
+❖ Unfortunately, uYouLocal download is not working atm. 
 
 ***
 ### Q: Slow download speed?
