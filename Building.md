@@ -24,7 +24,7 @@ chmod +x ./buildapp.sh
 ***
 
 # Method 2: Azule 
-**_Notes: some features of uYouPlus will be missing if you use Azule_**
+**Not recommended: some features of uYouPlus will be missing if you use Azule_**
 1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
 2. Download all the tweaks you want to inject. 
 - [iOS Repo Updates](https://www.ios-repo-updates.com/) is a trust-able source. [cydownload](https://github.com/borishonman/cydownload) and [Windows Repo Tool](https://github.com/SarahH12099/Windows-Repo-Tool) are good alternatives.
