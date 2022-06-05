@@ -5,6 +5,13 @@
 - **In short**: _I'm not the developer of uYouPlus. All the developers who are mentioned in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
 
 ***
+### Q: Is uYouPlus safe?
+- Eww, I'm afraid that I cannot answer this question. While most of the tweaks that are used in uYouPlus are open-source, there are two things that are not open-source:
+  - **uYou**: uYou is not open-source. But MiRO92 - the developer of uYou, is a very well-known and talent developer in jailbreak community. If you don't trust him, then I think you have no one left to trust 🤷‍♂️
+  - The YouTube ipa: you always can decrypt YouTube yourself. 
+- After all, I highly recommend you build your own iPA of uYouPlus. See [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)
+
+***
 ### Q: I got the IPA. How do I install uYouPlus?
 ❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. 
 
