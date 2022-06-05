@@ -2,7 +2,7 @@
 ***
 ### Q: Are you the developer of uYouPlus?
 - I'm just a guy who put all the tweaks which are used in uYouPlus into a YouTube IPA. Anyone can do that if they want to (see [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)). 
-- **In short**: _I'm not the developer of uYouPlus. All the developers in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
+- **In short**: _I'm not the developer of uYouPlus. All the developers who are mentioned in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
 
 ***
 ### Q: I got the IPA. How do I install uYouPlus?
@@ -25,17 +25,18 @@
 
 ***
 ### Q: Should I remove the vanilla YouTube?
-❖ You don‘t have to but you should. Keeping the vanilla YouTube app may cause issues with Cast to TV.
+❖ You don‘t have to but you should. However, keeping the vanilla YouTube app may cause issues with Cast to TV.
 
 ***
-### Q: I can't sign into my Google account!!!
-❖ If you're using a paid sigining service: contact them and ask "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
-❖ If you're using your own paid developer account: generate a **Wildcard** profile, which allows you to use the default bundle ID of YouTube. 
-❖ This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
+### Q: I can't sign into my Google account!!! 
+- This should be fixed in v17.21.3-2.1 and newer. If not, see below.
+- If you're using a paid sigining service: contact them and ask "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
+- If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
+- This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
 
 ***
 ### Q: Why can't I see 2K/4K quality?
-❖ Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled.
+- Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled.
 > Attention: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder).
 
 ***
@@ -67,11 +68,12 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 ### Q: Why can't I receive push notifications?
 - Push notifications will not work if you use a free developer account (limitation of sideload).
 - If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
+- Bear in mind that not all signing services support Push notifications.
 
 ***
 ### Q: What is the difference between uYou normal download and uYouLocal download?
-❖ MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
-❖ Unfortunately, uYouLocal download is not working atm. 
+- MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
+- Unfortunately, uYouLocal download is not working atm. 
 
 ***
 ### Q: Slow download speed?
@@ -88,8 +90,8 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: I see ads when casting to TV?
-❖ Let's make it simple: Cast to TV means you tell your TV play a video. But your TV loads that video directly from YouTube, not from your phone. 
-❖ If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
+- Let's make it simple: Cast to TV means you tell your TV play a video. But your TV loads that video directly from YouTube, not from your phone. 
+- If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
 
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
