@@ -20,7 +20,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 ### 2. How to install AltStore (macOS):
 - A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore: [AltStore FAQ - macOS](https://faq.altstore.io/getting-started/how-to-install-altstore-macos)
 
-### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
+### 3. After you successfully installed AltStore, head to [Installing uYouPlus!](#installing-uyouplus)
 
 ***
 ## ⊞ Windows:
@@ -35,7 +35,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 ### 2. How to install AltStore (Windows):
 - A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore: [AltStore FAQ - Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
 
-### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
+### 3. After you successfully installed AltStore, head to [Installing uYouPlus!](#installing-uyouplus)
 ***
 
 ## 🐧 Linux
