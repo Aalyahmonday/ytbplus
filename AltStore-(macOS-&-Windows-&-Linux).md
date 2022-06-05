@@ -12,68 +12,30 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 
 # Install AltStore
 ##  macOS:
-### Requirements:
+### 1. Requirements:
 - macOS 10.14.4 and up.
 - An iOS/iPadOS device running iOS 13 and later (because uYouPlus requires iOS/iPadOS 13+).
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
-### Step:
-**1. Get AltStore for macOS from** https://altstore.io/
+### 2. How to install AltStore (macOS):
+- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore FAQ: [AltStore FAQ - macOS](https://faq.altstore.io/getting-started/how-to-install-AltStore-macos)
 
-**2. Install Mail Plug-in:**
-- Open AltStore. You will see the AltServer icon in the Menu bar. Now select **Install Mail Plug-in** and follow the instruction. Enter your mac's password when AltStore asks you.
-![Screen Shot 2022-03-10 at 13 05 42](https://user-images.githubusercontent.com/52943116/157603045-56f10e7c-288b-4e7b-9190-61e475efc495.png)
-
-**3. Enable Mail Plug-in:**
-- Now we need to enable Mail Plug-in: Simply open the Mail app and go to `Mail > Preferences > Manage Plug-ins > Enable AltPlugin.mailbundle`. Follow the instruction AltStore tells you.
-
-<p align="center" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/52943116/157604418-410c4126-e855-467f-a110-12bddd60d33d.png">
-</p>
-
-**4. Install AltStore to your iDevice:**
-- Plug your phone into your Mac. Make sure AltServer and the Mail app are running.
-- Click the AltServer icon in the Mac menu bar, click **Install AltStore**, then choose your phone.
-- Enter the Apple ID when AltStore asks you. 
-- The process might take a few minutes. You'll see AltStore on your Home Screen when it is done.
-
-![Screen Shot 2022-03-10 at 13 08 11](https://user-images.githubusercontent.com/52943116/157605666-a65461fc-0f02-4236-8cbd-7655dfba43e3.png)
-
-### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
+### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
 
 ***
 ## ⊞ Windows:
-### Requirements:
-- Windows 10 and up.
+### 1. Requirements:
+- Windows 10 and up. (Windows 7 requires additional fix).
 - iTunes and iCloud from Apple installed. **AltStore will not work with iTunes & iCloud from Microsoft Store**
   - iTunes: https://www.apple.com/itunes/download/win64
   - iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
 - An iOS/iPadOS device running iOS 13 and later (because uYouPlus requires iOS/iPadOS 13+).
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
-### Step:
-**1. Install iTunes and iCloud**
+### 2. How to install AltStore (Windows):
+- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore FAQ: [AltStore FAQ - Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
 
-_(Well, I don't have anything to say here)_ 
-
-**2. Get AltStore for Windows from** https://altstore.io/
-- Run `AltInstaller.msi` to setup AltServer
-
-**3. Install AltStore to your phone**
-- Plug your phone into your PC/Laptop.
-- Open AltServer (it will appear as an icon in the Notification Area). Click **Install AltStore** and select your phone.
-
-![huong-dan-tu-sideload-unc0ver-bang-altstore-2](https://user-images.githubusercontent.com/52943116/157612964-a125eb08-4c9d-473f-93c1-620b13cfedc0.png) 
-![huong-dan-tu-sideload-unc0ver-bang-altstore-3](https://user-images.githubusercontent.com/52943116/157613799-2e4583f6-62d4-4dba-afa2-0f371b524717.png)
-
-- Enter the Apple ID when AltStore asks you.
-- The process might take a few minutes. You'll AltStore on your Home Screen when it is done. 
-
-![huong-dan-tu-sideload-unc0ver-bang-altstore-5](https://user-images.githubusercontent.com/52943116/157614209-cb634650-15fe-4d05-92a9-ce8671553626.png) 
-![huong-dan-tu-sideload-unc0ver-bang-altstore-6](https://user-images.githubusercontent.com/52943116/157614250-e55bb0e8-f343-47ed-9d92-f1c9dcd00477.png)
-
-
-### ☞ Now head to [Install uYouPlus!](#install-uyouplus)
+### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
 ***
 
 ## 🐧 Linux
@@ -86,8 +48,7 @@ _(Well, I don't have anything to say here)_
 - If you prefer GUI mode rather than CLI mode, [@powenn](https://twitter.com/powen00hsiao) made a GUI version of AltServer-Linux: https://github.com/powenn/AltServer-LinuxGUI
 
 ### ZSign
-- ZSign in fact can run on macOS, Windows, and Linux. However, it’s not a user-friendly tool since it only has CLI mode. The instruction of ZSign is detailed here:
-https://github.com/zhlynn/zsign
+- ZSign is a cross platform signing tool that can run on macOS, Windows, and Linux. However, it’s not a user-friendly tool since it only has CLI mode. The instruction of ZSign is detailed here: https://github.com/zhlynn/zsign
 
 ***
 # Installing uYouPlus
@@ -111,7 +72,7 @@ _✔︎ Now that you have AltStore installed on your iDevice, Let's start instal
     <img width="70%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
 </p>
 
-- **Remove App Extensions is not recommened** since it will remove the ability to use *Open in YouTube shortcut* & *Open in YouTube Extension* (https://github.com/CokePokes/YoutubeExtensions). uYouPlus will take 3 app IDs in total.  
+- **Remove App Extensions is not recommened** because it will remove the ability to use *Open in YouTube shortcut* & *Open in YouTube Extension* (https://github.com/CokePokes/YoutubeExtensions). uYouPlus will take 3 app IDs in total.  
 
 <p align="center" width="100%">
     <img width="90%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
