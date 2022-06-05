@@ -18,7 +18,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
 ### 2. How to install AltStore (macOS):
-- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore FAQ: [AltStore FAQ - macOS](https://faq.altstore.io/getting-started/how-to-install-AltStore-macos)
+- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore: [AltStore FAQ - macOS](https://faq.altstore.io/getting-started/how-to-install-AltStore-macos)
 
 ### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
 
@@ -33,7 +33,7 @@ _The installation process is pretty straightforward. First, set up AltServer on 
 - An Apple account: you can use a spare account, but make sure that account was logged into a device before. Otherwise, you will get **_error_ _-22411_** (See https://github.com/rileytestut/AltStore/issues/175).
 
 ### 2. How to install AltStore (Windows):
-- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore FAQ: [AltStore FAQ - Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
+- A very well-explained tutorial on how to install AltStore is available on the FAQ page of AltStore: [AltStore FAQ - Windows](https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
 
 ### 3. After you successfully installed AltStore, head to [Install uYouPlus!](#install-uyouplus)
 ***
