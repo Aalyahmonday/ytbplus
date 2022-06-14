@@ -1,5 +1,9 @@
 **_Hopefully, you will find the answer here!_**
 ***
+### Q: App crashes on iOS 16?
+- uYou doesn't work on iOS 16 , so don’t bother trying.
+
+***
 ### Q: Are you the developer of uYouPlus?
 - I'm just a guy who put all the tweaks which are used in uYouPlus into a YouTube IPA. Anyone can do that if they want to (see [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)). 
 - **In short**: _I'm not the developer of uYouPlus. All the developers who are mentioned in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
@@ -40,6 +44,10 @@
 - If you're using a paid sigining service: contact them and ask "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
 - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
 - This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
+
+### Q: The timestamp of video in History, Playlist, Watch later is missing!
+- Please read the changelog closely:
+> Workaround for missing the video's timestamp in Watch History/Playlist: Go to uYou's settings > Other Settings and [Disable](https://user-images.githubusercontent.com/52943116/150642296-5de53fc7-a1ea-4b3d-96f4-25c9ca8b8f81.JPG) "Remove YouTube Ads"
 
 ***
 ### Q: Why can't I see 2K/4K quality?
