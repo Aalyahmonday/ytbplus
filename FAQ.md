@@ -1,7 +1,8 @@
 **_Hopefully, you will find the answer here!_**
 ***
-### Q: App crashes on iOS 16?
-- uYou doesn't work on iOS 16 , so don’t bother trying.
+### ~~Q: App crashes on iOS 16?~~
+- ~~uYou doesn't work on iOS 16 , so don’t bother trying.~~ 
+- uYouPlus [v17.24.4-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.24.4-2.1) and higher supports iOS 16!
 
 ***
 ### Q: Are you the developer of uYouPlus?
@@ -33,6 +34,11 @@
 ### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**. 
 - Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus.
 - How to Refresh apps? See the answer above.
+
+***
+### Q: In the release page, what is the different between v16.42.3 and v17?
+- Use v16.42.3 if the app crashes when opening uYou's settings. Otherwise, I would not recommend you using v16.42.3.
+- Apparently, this issue usually only happens on early versions of iOS 15.
 
 ***
 ### Q: Should I remove the vanilla YouTube?
