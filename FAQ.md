@@ -46,10 +46,10 @@
 
 ***
 ### Q: I can't sign into my Google account!!! 
-- This should be fixed in v17.21.3-2.1 and newer. If not, see below.
-- If you're using a paid sigining service: contact them and ask "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
-- If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
-- This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
+- This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.21.3-2.1) and newer. If not, see below:
+  - If you're using a paid sigining service: contact your signing service and ask them "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
+  - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
+  - This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
 
 ### Q: The timestamp of video in History, Playlist, Watch later is missing!
 - Please read the changelog closely:
@@ -58,12 +58,12 @@
 ***
 ### Q: Why can't I see 2K/4K quality?
 - Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled.
-> Attention: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder).
+> Attention: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). PoomSmart explained it [here](https://github.com/PoomSmart/YTUHD#sideloading).
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
 It's impossible to fix deep-link (aka Open in the YouTube App). However, there are several workarounds:
-- [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. uYouPlus included **Open in YouTube Extensions** by default, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
+- [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. **uYouPlus included Open in YouTube Extensions by default**, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
   - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
   - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
 - [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
@@ -78,7 +78,8 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: What is **Legacy PiP**? Should I enable it?
-❖ No. I wouldn't suggest you enable Legacy PiP. It is a workaround for the speed-up bug that happens on iOS 14.0 - 14.4.2. I already mentioned about **Legacy PiP** in [Known issues](#known-issues)
+- No. I wouldn't suggest you enable Legacy PiP unless you tired of the [speed-up bug](https://github.com/PoomSmart/YouPiP/issues/29).
+- Turn on Legacy PiP also breaks the Default video quality feature of uYou and/or YouTube.
 
 ***
 ### Q: Why can't I disable Background playback?!? I turned off Background playback in uYou's settings!
@@ -107,7 +108,7 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: Cast to TV not working?
-❖ Remove the vanilla YouTube. 
+❖ Remove the vanilla YouTube.
 
 ***
 ### Q: I see ads when casting to TV?
