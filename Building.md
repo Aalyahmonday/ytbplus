@@ -1,4 +1,19 @@
-# Method 1: theos-jailed
+# Method 1: Github action
+## Requirement:
+- A Github account.
+- A decrypted YouTube ipa. You must upload it to your cloud storage service (Dropbox, OneDrive, GG Drive... or whatever you want). After that, get the direct download link to the IPA.
+
+## Step:
+1. Fork this repository.
+2. In your forked repository, go to the **Actions** tab > Select **Build and Release uYouPlus** action > **Run workflow** > Enter everything it requires. _Make sure you use a direct link to the IPA._
+
+![Screen Shot 2](https://user-images.githubusercontent.com/52943116/175647144-c49ea7b5-d74a-4450-9819-2f7b5b462d0a.png)
+
+3. That's it! Grab a coffee ☕️ The process might take several minutes. You will see the IPA in the **Releases tab** of your repository.
+
+***
+
+# Method 2: theos-jailed
 ## Requirement:
 - Xcode 13+ & Xcode Command Line Tools
 - theos & theos-jailed
@@ -20,14 +35,3 @@ chmod +x ./buildapp.sh
 ![Screen Shot 2](https://user-images.githubusercontent.com/52943116/168122339-cfa388cb-4956-48cc-a4d5-cfba22612bbf.png)
 
 ✔︎ That's it! Grab a coffee ☕️ The process might take several minutes. The IPA is stored in `./uYouPlus/packages`
-
-***
-
-# Method 2: Azule 
-**Not recommended: some features of uYouPlus will be missing if you use Azule_**
-1. Setup [Azule](https://github.com/Al4ise/Azule) on your machine (macOS/Linux/iOS).
-2. Download all the tweaks you want to inject. 
-- [iOS Repo Updates](https://www.ios-repo-updates.com/) is a trust-able source. [cydownload](https://github.com/borishonman/cydownload) and [Windows Repo Tool](https://github.com/SarahH12099/Windows-Repo-Tool) are good alternatives.
-- The sideload version of iSponsorBlock. You can get it from [my fork](https://github.com/qnblackcat/iSponsorBlock) _(thanks @Luewii for his code!)_
-3. Don't forget to prepare the **decrypted** YouTube IPA. _(encrypted IPA will NOT work)_
-4. Run `azule -h` in any Terminal window and follow the instruction.
