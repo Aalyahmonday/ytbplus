@@ -1,6 +1,6 @@
 **_Hopefully, you will find the answer here!_**
 ***
-### ~~Q: App crashes on iOS 16?~~
+### Q: App crashes on iOS 16?
 - ~~uYou doesn't work on iOS 16 , so don’t bother trying.~~ 
 - uYouPlus [v17.24.4-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.24.4-2.1) and higher supports iOS 16!
 
@@ -103,8 +103,9 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
-- This happens when you use an **Apple Distribution Certificate** to sign uYouPlus IPA. Please use an **Apple Developer Certificate** instead.
-- For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.
+- ~~This happens when you use an **Apple Distribution Certificate** to sign uYouPlus IPA. Please use an **Apple Developer Certificate** instead.~~
+- ~~For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.~~
+- Looks like the fix is not working [anymore](https://github.com/qnblackcat/uYouPlus/issues/238). Waiting for the new update of uYou is our only hope.
 
 ***
 ### Q: Cast to TV not working?
