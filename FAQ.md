@@ -41,8 +41,24 @@
 - Apparently, this issue usually only happens on early versions of iOS 15.
 
 ***
-### Q: Should I remove the vanilla YouTube?
+### Q: Error `Failed to load Info.plist from bundle at path /private/var/container/Bundle/Application...`
+- I assume you're using AltStore or Sideloadly. In either case:
+  - Fully uninstall AltStore & uYouPlus.
+  - Reinstall AltStore & latest version of uYouPlus.
+- You only need to do this once. The issue should not happen anymore.
+
+***
+### Q: Should I remove the vanilla YouTube? 
 ❖ You don‘t have to but you should. However, keeping the vanilla YouTube app may cause issues with Cast to TV.
+
+***
+### Q: Cast to TV not working?
+❖ Remove the vanilla YouTube.
+
+***
+### Q: I see ads when casting to TV?
+- Let's make it simple: Cast to TV means you tell your TV play a video. But your TV loads that video directly from YouTube, not from your phone. 
+- If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
 
 ***
 ### Q: I can't sign into my Google account!!! 
@@ -51,14 +67,15 @@
   - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
   - This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
 
-### Q: The timestamp of video in History, Playlist, Watch later is missing!
+***
+### Q: The timestamp of videos in History, Playlist, Watch later is missing!
 - Please read the changelog closely:
 > Workaround for missing the video's timestamp in Watch History/Playlist: Go to uYou's settings > Other Settings and [Disable](https://user-images.githubusercontent.com/52943116/150642296-5de53fc7-a1ea-4b3d-96f4-25c9ca8b8f81.JPG) "Remove YouTube Ads"
 
 ***
 ### Q: Why can't I see 2K/4K quality?
 - Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled.
-> Attention: watching 2K/4K videos will cause many issues such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). PoomSmart explained it [here](https://github.com/PoomSmart/YTUHD#sideloading).
+- **Attention**: watching 2K/4K videos may cause several issues, such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). PoomSmart explained it [here](https://github.com/PoomSmart/YTUHD#sideloading).
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
@@ -95,26 +112,16 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 ***
 ### Q: What is the difference between uYou normal download and uYouLocal download?
 - MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
-- Unfortunately, uYouLocal download is not working atm. 
 
 ***
 ### Q: Slow download speed?
-❖ Well, YouTube slows down the download speed for some reasons. Let's hope MiRO92 can do something about it.
+❖ Well, YouTube slows down the download speed. Let's hope MiRO92 can do something about it.
 
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
 - ~~This happens when you use an **Apple Distribution Certificate** to sign uYouPlus IPA. Please use an **Apple Developer Certificate** instead.~~
 - ~~For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.~~
 - Looks like the fix is not working [anymore](https://github.com/qnblackcat/uYouPlus/issues/238). Waiting for the new update of uYou is our only hope.
-
-***
-### Q: Cast to TV not working?
-❖ Remove the vanilla YouTube.
-
-***
-### Q: I see ads when casting to TV?
-- Let's make it simple: Cast to TV means you tell your TV play a video. But your TV loads that video directly from YouTube, not from your phone. 
-- If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
 
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
