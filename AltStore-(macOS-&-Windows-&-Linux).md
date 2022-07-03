@@ -72,13 +72,14 @@ _✔︎ Now that you have AltStore installed on your iDevice, Let's start instal
     <img width="70%" src="https://user-images.githubusercontent.com/52943116/157609122-17036f02-8122-4e74-bb14-ad03e186e090.PNG">
 </p>
 
-- **Remove App Extensions is not recommened** because it will remove the ability to use *Open in YouTube shortcut* & *Open in YouTube Extension* (https://github.com/CokePokes/YoutubeExtensions). uYouPlus will take 3 app IDs in total.  
+- **Remove App Extensions is not recommened** because it will remove the ability to use [Open in YouTube shortcut & Open in YouTube Extension](https://github.com/CokePokes/YoutubeExtensions). 
+- uYouPlus will take 3 app IDs in total.  
 
 <p align="center" width="100%">
     <img width="90%" src="https://user-images.githubusercontent.com/52943116/157610652-62f09dc6-18cd-4795-9895-1b1206cf5b7c.PNG">
 </p>
 
-- The process might take a few minutes. After that, you will uYouPlus on your Home Screen 🎉🎉🎉
+- The process might take a few minutes. After that, you will see uYouPlus on your Home Screen 🎉🎉🎉
 
 ### ☞ Other methods:
 
