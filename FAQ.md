@@ -36,8 +36,8 @@
 - How to Refresh apps? See the answer above.
 
 ***
-### Q: In the release page, what is the different between v16.42.3 and v17?
-- Use v16.42.3 if the app crashes when opening uYou's settings. Otherwise, I would not recommend you using v16.42.3.
+### Q: YouTube crashes when opening uYou's settings?
+- Use v16.42.3 if the app crashes when opening uYou's setting ([Issue #10](https://github.com/qnblackcat/uYouPlus/issues/10)). Otherwise, I would not recommend you using v16.42.3. [FAQ - Building](https://github.com/qnblackcat/uYouPlus/wiki/building) will tell you how to build your own version of uYouPlus.
 - Apparently, this issue usually only happens on early versions of iOS 15.
 
 ***
