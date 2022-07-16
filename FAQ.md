@@ -26,6 +26,11 @@
 - **_If you are jailbroken, DO NOT use uYou+_**. All tweaks in uYou+ are available on Cydia.
 
 ***
+### Q: Does it support ARM mac?
+- **_NO, IT DOES NOT_**. 
+- I also don’t own an ARM mac, please don’t ask me to add support for ARM mac. Perhaps other developers could do that.
+
+***
 ### Q: How do I refresh uYouPlus?
 - AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#refresh-uyouplus).
 - Sideloadly users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
