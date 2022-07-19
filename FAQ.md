@@ -23,7 +23,7 @@
 ***
 ### Q: Does it require jailbroken?
 - **_NO, IT DOES NOT_**. The IPA is made for non-jb users. 
-- **_If you are jailbroken, DO NOT use uYou+_**. All tweaks in uYou+ are available on Cydia.
+- If you are jailbroken but still want to use uYouPlus, you must sideload it with AltStore, Sideloadly, Reprovision... Using AppSync Unifield & Filza will not work (app crashes on launching).
 
 ***
 ### Q: Does it support ARM mac?
@@ -120,7 +120,7 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: Slow download speed?
-❖ Well, YouTube slows down the download speed. Let's hope MiRO92 can do something about it.
+❖ Well, YouTube slows down the download speed. Let's hope MiRO92 could do something about it.
 
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
