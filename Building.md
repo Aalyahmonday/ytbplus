@@ -21,7 +21,7 @@ https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Ea-gt
 ## Requirement:
 - Xcode 13+ & Xcode Command Line Tools
 - theos & theos-jailed
-- iOS 15 SDK in `theos/sdks`
+- [iOS 15 SDK](https://github.com/chrisharper22/sdks/archive/main.zip) in `theos/sdks`
 
 ## Step:
 1. Clone this repo: `git clone --recursive https://github.com/qnblackcat/uYouPlus.git`
