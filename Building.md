@@ -1,7 +1,7 @@
 # Method 1: Github action
 ## Requirement:
 - A Github account.
-- A decrypted YouTube ipa. You must upload it to your cloud storage service (Dropbox, OneDrive, GG Drive... or whatever you want). After that, get the direct download link to the IPA.
+- A decrypted YouTube ipa. You must upload it to your cloud storage service (Dropbox, OneDrive, Google Drive or whatever you want). After that, get the direct download link to the IPA.
 - For those who are planning to build v16.42.3: this is the direct URL to the decrypted YouTube v16.42.3 IPA.
 ```
 https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Ea-gtjWI219Kmg7rllE-u0cBMGFuv-jbbDlByJqqS_PVdQ?download=1
