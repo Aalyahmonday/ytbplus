@@ -21,7 +21,8 @@ https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Ea-gt
 ## Requirement:
 - Xcode 13+ & Xcode Command Line Tools
 - theos & theos-jailed
-- A patched [iOS 15 SDK](https://github.com/chrisharper22/sdks/archive/main.zip) in `theos/sdks`. This is an iOS 15.0 SDK. If you use a different SDK, please udpate the target in `Tweaks > Alderis > Makefile`
+- A patched iOS 15 SDK (with Private Frameworks) in `theos/sdks`. Below is an iOS 15.0 SDK. If you use a different SDK, please update the target in `Tweaks > Alderis > Makefile`
+https://github.com/chrisharper22/sdks/archive/main.zip
 
 ## Step:
 1. Clone this repo: `git clone --recursive https://github.com/qnblackcat/uYouPlus.git`
