@@ -43,7 +43,7 @@
 ***
 ### Q: YouTube crashes when opening uYou's settings?
 - Use v16.42.3 if the app crashes when opening uYou's setting ([Issue #10](https://github.com/qnblackcat/uYouPlus/issues/10)). Otherwise, I would not recommend you using v16.42.3. [FAQ - Building](https://github.com/qnblackcat/uYouPlus/wiki/building) will tell you how to build your own version of uYouPlus.
-- Apparently, this issue usually only happens on early versions of iOS 15.
+- Apparently, this issue usually only occurs on early versions of iOS 15 (15.0 - 15.1.1)
 
 ***
 ### Q: Error `Failed to load Info.plist from bundle at path /private/var/container/Bundle/Application...`
