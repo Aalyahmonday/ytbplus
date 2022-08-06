@@ -12,6 +12,7 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 2. Hold and copy the URL like [this](https://camo.githubusercontent.com/be528e9123cba5a5348ddbf2912b70397c8a1e742d54df0a7a8d14bdfe152bfe/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835383635373535333738313232373537302f313030353035313538303530363139343030312f494d475f32303232303830355f3136353630312e6a7067). 
 3. Open the URL in a new Safari private (incognito) window, you should be able to sign in to Google now.
 4. After signing in to Google, you will be asked to “Open in YouTube” > Done!
+
 => For those who still having trouble following the second method, I made a video [here](https://drive.google.com/file/d/17c9I419tdBf91oTeL0MQGNm4KlrVmlMk/view?usp=drivesdk).
 
 PS: It seems like we have to deal with this inconvenience from now on. If you have a better solution, please share it.
