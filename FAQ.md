@@ -50,12 +50,12 @@ PS: It seems like we have to deal with this inconvenience from now on. If you ha
 
 ***
 ### Q: How do I refresh uYouPlus?
-- AltStore users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#refresh-uyouplus).
-- Sideloadly users: please see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
+- AltStore users: see [here](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#refresh-uyouplus).
+- Sideloadly users: see [here](https://github.com/qnblackcat/uYouPlus/wiki/Sideloadly-(macOS-&-Windows)#refresh-uyouplus).
 
 ***
 ### Q: I can't open uYouPlus after a week (AltStore/Sideloadly). It said **YouTube is no longer available**. 
-- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). For now, please re-install AltStore & uYouPlus.
+- Apps that have been installed using a free developer account are only valid for 7 days (you can check the expiry date in AltStore). Please re-install AltStore & uYouPlus.
 - How to Refresh apps? See the answer above.
 
 ***
@@ -84,7 +84,7 @@ PS: It seems like we have to deal with this inconvenience from now on. If you ha
 - If you use AirPlay then you won't see any ads, because you're streaming your video directly to your TV. 
 
 ***
-### Q: I can't sign into my Google account!!! 
+### Q: I signed in, but got "Error fetching channel list for account Tap to try again" error!
 - This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.21.3-2.1) and newer. If not, see below:
   - If you're using a paid sigining service: contact your signing service and ask them "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
   - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
@@ -110,7 +110,7 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: Why does it take so long to active PiP? 
-❖ Have you enabled native YouTube PiP in **YouTube Settings > General**? This is where **YouPiP** shines! 
+❖ Have you enabled native YouTube PiP in **YouTube Settings > YouPiP**? This is where **YouPiP** shines! 
 
 ***
 ### Q: The app stop playing when I turn off the screen?
@@ -135,6 +135,7 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 ***
 ### Q: What is the difference between uYou normal download and uYouLocal download?
 - MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
+- From my experience, uYouLocal has a better download speed!?
 
 ***
 ### Q: Slow download speed?
