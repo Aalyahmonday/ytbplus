@@ -65,10 +65,8 @@ PS: It seems like we have to deal with this inconvenience from now on. If you ha
 
 ***
 ### Q: Error `Failed to load Info.plist from bundle at path /private/var/container/Bundle/Application...`
-- I assume you're using AltStore or Sideloadly. In either case:
-  - Fully uninstall AltStore & uYouPlus.
-  - Reinstall AltStore & latest version of uYouPlus.
-- You only need to do this once. The issue should not happen anymore.
+- See this: 
+https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: Should I remove the vanilla YouTube? 
