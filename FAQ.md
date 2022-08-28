@@ -1,10 +1,12 @@
 **_Hopefully, you will find the answer here!_**
 ***
 ### Q: "You can't sign in to this app because Google can't confirm that it's safe" warning when signing in.
+#### ☞ **Update**: this issue has been addressed on [v17.33.2-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.33.2-2.1) and higher. You don‘t need to follow the trick below anymore. Just make sure you‘re on the newest version!
+
 #### ☞ The situation:
 Google has added a new implementation that prevents users from signing in to modified YouTube apps (see [Less secure apps](https://support.google.com/accounts/answer/6010255?hl=en)). Basically, If the bundle ID of the app is modified, Google won't let us sign in. But **if you're already signed it, you will be fine**. Just don't remove the app, so you don't need to sign in again.
 
-#### ☞ Which choice do we have now?
+#### ☞ Which choice do we have now? (
 Fortunately, there are two workarounds (not guarantee working 100%):
 - **Method 1**: Keeping the original bundle ID of YouTube (`com.google.ios.youtube`) when sideloading YouTube: This is definitely not a real solution because it isn't available for free users. You’ll need a paid developer certificate & a wildcard provisioning profile to achieve it.
 - **Method 2**: This might be a bit complicated, but everyone can follow it _(discovered by @Cao Đức Phát)_:
@@ -15,7 +17,7 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 
 => For those who still having trouble following the second method, I made a video [here](https://drive.google.com/file/d/17c9I419tdBf91oTeL0MQGNm4KlrVmlMk/view?usp=drivesdk).
 
-PS: It seems like we have to deal with this inconvenience from now on. If you have a better solution, please share it.
+**PS: again, these workarounds are old and no longer needed. All you need to do is update to the latest version of uYouPlus.**
 
 ***
 ### Q: App crashes on iOS 16?
