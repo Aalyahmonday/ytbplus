@@ -1,7 +1,15 @@
 **_Hopefully, you will find the answer here!_**
 ***
+### Q: "Google couldn't confirm this attempt to sign in is safe. If you think this is a mistake, you can close and try again to sign in." warning when signing in.
+- Unfortunately, no **real** solution for this problem has been found yet. However, if you're a TrollStore user, there is an option to fix this problem in uYouPlus's setting.
+- For now, you can discuss about the issue [here](https://github.com/qnblackcat/uYouPlus/discussions/428).
+
+***
 ### Q: "You can't sign in to this app because Google can't confirm that it's safe" warning when signing in.
 #### ☞ **Update**: this issue has been addressed on [v17.33.2-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.33.2-2.1) and higher. You don‘t need to follow the trick below anymore. Just make sure you‘re on the newest version!
+
+<details>
+  <summary>Expand</summary>
 
 #### ☞ The situation:
 Google has added a new implementation that prevents users from signing in to modified YouTube apps (see [Less secure apps](https://support.google.com/accounts/answer/6010255?hl=en)). Basically, If the bundle ID of the app is modified, Google won't let us sign in. But **if you're already signed it, you will be fine**. Just don't remove the app, so you don't need to sign in again.
@@ -18,6 +26,7 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 => For those who still having trouble following the second method, I made a video [here](https://drive.google.com/file/d/17c9I419tdBf91oTeL0MQGNm4KlrVmlMk/view?usp=drivesdk).
 
 **PS: again, these workarounds are old and no longer needed. All you need to do is update to the latest version of uYouPlus.**
+</details>
 
 ***
 ### Q: App crashes on iOS 16?
@@ -102,11 +111,12 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
-It's impossible to fix deep-link (aka Open in the YouTube App). However, there are several workarounds:
-- [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. **uYouPlus included Open in YouTube Extensions by default**, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
-  - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
-  - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
-- [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
+- If uYouPlus was installed via TrollStore, then Deep link should work out of the box.
+- If you can't use TrollStore, then it is impossible to fix deep link. However, there are several workarounds:
+  - [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions) by @CokePokes: This is the combination of Open in YouTube shorcut & userscript below. **uYouPlus included Open in YouTube Extensions by default**, so you don't have to worry about it. However, in order to keep the extensions work correctly, you **MUST** keep the app's extensions when install the iPA (especially AltStore users). In case you're running out of add IDs (uYou+ needs 3 app IDs), you can install the shortcut/userscript separately:
+    - Safari extension & Userscript: iOS 15 users can follow [this workaround](https://github.com/qnblackcat/uYouPlus/issues/69).
+    - iOS 14 users can use [Open in YouTube](https://shortcutsgallery.com/shortcuts/open-in-youtube/) shortcut.
+  - [Opener](https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871) is a paid app from AppStore that allows you to open links from the web in apps.
 
 ***
 ### Q: Why does it take so long to active PiP? 
@@ -128,7 +138,8 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 
 ***
 ### Q: Why can't I receive push notifications?
-- Push notifications will not work if you use a free developer account (limitation of sideload).
+- Pusn notifications work out of the box if the app was installed by TrollStore.
+- Push notifications will not work on free developer account (limitation of sideload).
 - If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
 - Bear in mind that not all signing services support Push notifications.
 
@@ -146,6 +157,7 @@ It's impossible to fix deep-link (aka Open in the YouTube App). However, there a
 - ~~This happens when you use an **Apple Distribution Certificate** to sign uYouPlus IPA. Please use an **Apple Developer Certificate** instead.~~
 - ~~For appdb PRO users: follow [**this guide**](https://www.reddit.com/r/sideloaded/comments/pub39h/guide_how_to_fix_uyouuyou_download_not_working/) to fix uYou download not working.~~
 - Looks like the fix is not working [anymore](https://github.com/qnblackcat/uYouPlus/issues/238). Waiting for the new update of uYou is our only hope.
+- This issue should not happen when you use Trollstore.
 
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
