@@ -97,7 +97,7 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 - This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.21.3-2.1) and newer. If not, see below:
   - If you're using a paid sigining service: contact your signing service and ask them "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
   - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
-  - This problem rarely happens with free AltStore/Sideloadly users. In that case, try to remove vanilla YouTube (if existed) and re-install uYou+.
+  - AltStore/Sideloadly users: make sure the bundle ID of the IPA was not modified. It should be `com.google.iOS.youtube`
 
 ***
 ### Q: The timestamp of videos in History, Playlist, Watch later is missing!
@@ -106,8 +106,8 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: Why can't I see 2K/4K quality?
-- Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled.
-- **Attention**: watching 2K/4K videos may cause several issues, such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). PoomSmart explained it [here](https://github.com/PoomSmart/YTUHD#sideloading).
+- Make sure you enable **YTUHD** in **YouTube Settings > Video quality preferences**. However, I recommend you leave YTUHD disabled unless you use TrollStore to install uYouPlus.
+- Watching 2K/4K videos may cause several issues, such as battery drain, overheating, stuttering... That's because YTUHD uses software decoder (vanilla YouTube uses hardware decoder). PoomSmart explained it [here](https://github.com/PoomSmart/YTUHD#sideloading). **However, YTUHD works perfectly fine when the app was installed by TrollStore.**
 
 ***
 ### Q: Deep-link (aka **Open in the YouTube app**) doesn't work?
