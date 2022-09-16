@@ -1,8 +1,8 @@
 **_Hopefully, you will find the answer here!_**
 ***
 ### Q: "Google couldn't confirm this attempt to sign in is safe. If you think this is a mistake, you can close and try again to sign in." warning when signing in.
-- Unfortunately, no **real** solution for this problem has been found yet. However, if you're a TrollStore user, there is an option to fix this problem in uYouPlus's setting.
-- For now, you can discuss about the issue [here](https://github.com/qnblackcat/uYouPlus/discussions/428).
+- Thanks to the community, someone has found a workaround for this problem. While it’s quite complicated, it‘s the only way to sign in to YouTube for now. 
+- I won’t present the all the details here, please follow [**this guide**](https://github.com/qnblackcat/uYouPlus/discussions/447)
 
 ***
 ### Q: "You can't sign in to this app because Google can't confirm that it's safe" warning when signing in.
