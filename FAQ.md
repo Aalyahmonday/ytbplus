@@ -1,8 +1,8 @@
 **_Hopefully, you will find the answer here!_**
 ***
 ### Q: "Google couldn't confirm this attempt to sign in is safe. If you think this is a mistake, you can close and try again to sign in." warning when signing in.
-- Thanks to the community, someone has found a workaround for this problem. While it’s quite complicated, it‘s the only way to sign in to YouTube for now. 
-- I won’t present the all the details here, please follow [**this guide**](https://github.com/qnblackcat/uYouPlus/discussions/447)
+- The issue has been solved in [v17.37.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.37.3-2.1) or higher. However, Google can easily break it again if they want. Therefore don't be surprised if it suddenly stop working.
+- For more details about the problem, check out [this disscussion](https://github.com/qnblackcat/uYouPlus/discussions/447).
 
 ***
 ### Q: "You can't sign in to this app because Google can't confirm that it's safe" warning when signing in.
