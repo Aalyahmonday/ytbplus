@@ -1,7 +1,7 @@
 **_Hopefully, you will find the answer here!_**
 ***
 ### Q: "Google couldn't confirm this attempt to sign in is safe. If you think this is a mistake, you can close and try again to sign in." warning when signing in.
-- The issue has been solved in [v17.37.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.37.3-2.1) or higher. However, Google can easily break it again if they want. Therefore don't be surprised if it suddenly stop working.
+- **The issue has been solved in [v17.37.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.37.3-2.1) or higher. However, Google can easily break it again if they want. Therefore don't be surprised if it suddenly stop working.**
 - For more details about the problem, check out [this disscussion](https://github.com/qnblackcat/uYouPlus/discussions/447).
 
 ***
@@ -103,6 +103,14 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 ### Q: The timestamp of videos in History, Playlist, Watch later is missing!
 - Please read the changelog closely:
 > Workaround for missing the video's timestamp in Watch History/Playlist: Go to uYou's settings > Other Settings and [Disable](https://user-images.githubusercontent.com/52943116/150642296-5de53fc7-a1ea-4b3d-96f4-25c9ca8b8f81.JPG) "Remove YouTube Ads"
+
+***
+### Q: My watch history not syncing?
+- Check your DNS setting. Every time people complain about this issue, it is due to DNS configuration.
+
+***
+### Q: Age restricted (offensive/inappropriate) videos not playing?
+- Go to uYou's setting > Turn off **Disable Age Restriction**.
 
 ***
 ### Q: Why can't I see 2K/4K quality?
