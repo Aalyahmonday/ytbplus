@@ -71,8 +71,7 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 
 ***
 ### Q: YouTube crashes when opening uYou's settings?
-- Use v16.42.3 if the app crashes when opening uYou's setting ([Issue #10](https://github.com/qnblackcat/uYouPlus/issues/10)). Otherwise, I would not recommend you using v16.42.3. [FAQ - Building](https://github.com/qnblackcat/uYouPlus/wiki/building) will tell you how to build your own version of uYouPlus.
-- Apparently, this issue usually only occurs on early versions of iOS 15 (15.0 - 15.1.1)
+- This has been addressed in [v17.34.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.34.3-2.1) or higher.
 
 ***
 ### Q: Error `Failed to load Info.plist from bundle at path /private/var/container/Bundle/Application...`
@@ -80,12 +79,8 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
-### Q: Should I remove the vanilla YouTube? 
-❖ You don‘t have to but you should. However, keeping the vanilla YouTube app may cause issues with Cast to TV.
-
-***
-### Q: Cast to TV not working?
-❖ Remove the vanilla YouTube.
+### Q: Should I remove the vanilla YouTube? Cast to TV not working?
+❖ You don‘t have to but you should. However, keeping the vanilla YouTube app may cause issues with Cast to TV. Remove the stock YouTube app in that case.
 
 ***
 ### Q: I see ads when casting to TV?
@@ -97,7 +92,7 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 - This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.21.3-2.1) and newer. If not, see below:
   - If you're using a paid sigining service: contact your signing service and ask them "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
   - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
-  - AltStore/Sideloadly users: make sure the bundle ID of the IPA was not modified. It should be `com.google.iOS.youtube`
+  - AltStore/Sideloadly users: make sure the bundle ID of the IPA was not modified. It should be `com.google.ios.youtube`
 
 ***
 ### Q: The timestamp of videos in History, Playlist, Watch later is missing!
