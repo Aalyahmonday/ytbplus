@@ -39,6 +39,17 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 - **In short**: _I'm not the developer of uYouPlus. All the developers who are mentioned in [Credits](https://github.com/qnblackcat/uYouPlus#credits) are the developer of uYouPlus._
 
 ***
+### Q: I want to add my language to uYouPlus. How do I do that?
+- Translator are always welcome. If your language already exists then feel free to check it and/or improve it:
+  1. Fork uYouPlus repo
+  2. Go to `lang > uYouPlus.bundle`. Duplicate the template.lproj folder, and edit the duplicated folder's name to your <lang_code>.lproj id.
+For example: <ru.lproj> for Russia. For more details, visit: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+  3. Translate each line below after each =
+  4. Open a Pull Request
+
+- You can also add your localization to [YouPiP](https://github.com/PoomSmart/YouPiP/tree/main/layout/Library/Application%20Support/YouPiP.bundle), [YTUHD](https://github.com/PoomSmart/YTUHD/tree/master/layout/Library/Application%20Support/YTUHD.bundle) and [Return YouTube Dislike](https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Application%20Support/RYD.bundle). The process is the same.
+
+***
 ### Q: Is uYouPlus safe?
 - Eww, I'm afraid that I cannot answer this question. While most of the tweaks that are used in uYouPlus are open-source, there are two things that are not open-source:
   - **uYou**: uYou is not open-source. But MiRO92 - the developer of uYou, is a very well-known and talent developer in jailbreak community. If you don't trust him, then I think you have no one left to trust 🤷‍♂️
