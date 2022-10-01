@@ -1,12 +1,12 @@
 **_Hopefully, you will find the answer here!_**
 ***
 ### Q: "Google couldn't confirm this attempt to sign in is safe. If you think this is a mistake, you can close and try again to sign in." warning when signing in.
-- **The issue has been solved in [v17.37.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.37.3-2.1) or higher. However, Google can easily break it again if they want. Therefore don't be surprised if it suddenly stop working.**
+- **The issue has been solved in [v17.37.3-2.1 and higher](https://github.com/qnblackcat/uYouPlus/releases/latest). However, Google can easily break it again if they want. Therefore don't be surprised if it suddenly stop working.**
 - For more details about the problem, check out [this disscussion](https://github.com/qnblackcat/uYouPlus/discussions/447).
 
 ***
 ### Q: "You can't sign in to this app because Google can't confirm that it's safe" warning when signing in.
-#### ☞ **Update**: this issue has been addressed on [v17.33.2-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.33.2-2.1) and higher. You don‘t need to follow the trick below anymore. Just make sure you‘re on the newest version!
+#### ☞ **Update**: this issue has been addressed on [v17.33.2-2.1 and higher](https://github.com/qnblackcat/uYouPlus/releases/latest). You don‘t need to follow the trick below anymore. Just make sure you‘re on the newest version!
 
 <details>
   <summary>Expand</summary>
@@ -31,7 +31,7 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 ***
 ### Q: App crashes on iOS 16?
 - ~~uYou doesn't work on iOS 16 , so don’t bother trying.~~ 
-- uYouPlus [v17.24.4-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.24.4-2.1) and higher supports iOS 16!
+- uYouPlus [v17.24.4-2.1 and higher](https://github.com/qnblackcat/uYouPlus/releases/latest) supports iOS 16!
 
 ***
 ### Q: Are you the developer of uYouPlus?
@@ -100,7 +100,7 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: I signed in, but got "Error fetching channel list for account Tap to try again" error!
-- This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.21.3-2.1) and newer. If not, see below:
+- This should be fixed in [v17.21.3-2.1](https://github.com/qnblackcat/uYouPlus/releases/latest) and newer. If not, see below:
   - If you're using a paid sigining service: contact your signing service and ask them "How to keep the original bundle ID when sideloading app". Login should work with the default bundle ID.
   - If you're using your own paid developer account: generate a **wildcard** profile, which allows you to use the default bundle ID of YouTube. 
   - AltStore/Sideloadly users: make sure the bundle ID of the IPA was not modified. It should be `com.google.ios.youtube`
@@ -115,7 +115,7 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 - Check your DNS setting. Every time people complain about this issue, it is due to DNS configuration.
 
 ***
-### Q: Age restricted (offensive/inappropriate) videos not playing?
+### Q: Age restricted (offensive/inappropriate) videos not playing? [(Issue #349)](https://github.com/qnblackcat/uYouPlus/issues/349)
 - Go to uYou's setting > Turn off **Disable Age Restriction**.
 
 ***
