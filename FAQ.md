@@ -107,16 +107,21 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: The timestamp of videos in History, Playlist, Watch later is missing!
-- Please read the changelog closely:
-> Workaround for missing the video's timestamp in Watch History/Playlist: Go to uYou's settings > Other Settings and [Disable](https://user-images.githubusercontent.com/52943116/150642296-5de53fc7-a1ea-4b3d-96f4-25c9ca8b8f81.JPG) "Remove YouTube Ads"
+- Go to uYou's setting > Other settings > Turn off **Remove YouTube Ads**.
+- This option will be disabled automatically since [v17.40.5-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.39.5-2.1) and higher.
+
+***
+### Q: Age restricted (offensive/inappropriate) videos not playing? [(Issue #349)](https://github.com/qnblackcat/uYouPlus/issues/349)
+- Go to uYou's setting > Other settings > Turn off **Disable Age Restriction**.
+- This option will be disabled automatically since [v17.40.5-2.1](https://github.com/qnblackcat/uYouPlus/releases/tag/v17.39.5-2.1) and higher.
+
+***
+### Q: Some Options in 'uYou > Settings > Other Settings' won't save (Remove YouTube Ads/ Disable Age Restriction)
+- Just read the 2 answers above...
 
 ***
 ### Q: My watch history not syncing?
 - Check your DNS setting. Every time people complain about this issue, it is due to DNS configuration.
-
-***
-### Q: Age restricted (offensive/inappropriate) videos not playing? [(Issue #349)](https://github.com/qnblackcat/uYouPlus/issues/349)
-- Go to uYou's setting > Turn off **Disable Age Restriction**.
 
 ***
 ### Q: Why can't I see 2K/4K quality?
@@ -164,7 +169,8 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: Slow download speed?
-❖ Well, YouTube slows down the download speed. Let's hope MiRO92 could do something about it.
+- Well, YouTube slows down the download speed. Let's hope MiRO92 could do something about it.
+- From my experience, uYouLocal has a better download speed!?
 
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
