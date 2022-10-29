@@ -1,4 +1,5 @@
-There are many ways to sideload uYouPlus to your device. I only cover popular-free sideload tools in this guide. If you're on iOS 14.0-15.4.1, **[TrollStore](https://github.com/opa334/TrollStore) IS STRONGLY RECOMMENDED.** Other alternatives are **AltStore**, **Sideloadly**, and **iOS App Signer**.
+#### ☞ There are many ways to sideload uYouPlus to your device. I only cover popular-free sideload tools in this guide.
+#### ☞ If you're on iOS 14.0-15.4.1, **[TrollStore](https://github.com/opa334/TrollStore) IS STRONGLY RECOMMENDED.** Other alternatives are **AltStore**, **Sideloadly**, and **iOS App Signer**:
 
 - [TrollStore]()
 - [AltStore (macOS & Windows & Linux)](AltStore-(macOS-&-Windows-&-Linux))
