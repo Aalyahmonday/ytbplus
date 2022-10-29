@@ -1,6 +1,7 @@
 # 📖 uYouPlus wiki 📖
 ## ☞ [FAQ](FAQ)
 ## ☞ [Installation](Installation)
+- [TrollStore (iOS 14.0 - 15.4.1)](TrollStore-(iOS-14.0-15.4.1))
 - [AltStore (macOS & Windows & Linux)](AltStore-(macOS-&-Windows-&-Linux))
   - [macOS](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#-macos)
   - [Windows](https://github.com/qnblackcat/uYouPlus/wiki/AltStore-(macOS-&-Windows-&-Linux)#-windows)
