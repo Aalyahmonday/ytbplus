@@ -47,23 +47,24 @@ For example: <ru.lproj> for Russia. For more details, visit: https://en.wikipedi
   3. Translate each line below after each =
   4. Open a Pull Request
 
-- You can also add your localization to [YouPiP](https://github.com/PoomSmart/YouPiP/tree/main/layout/Library/Application%20Support/YouPiP.bundle), [YTUHD](https://github.com/PoomSmart/YTUHD/tree/master/layout/Library/Application%20Support/YTUHD.bundle) and [Return YouTube Dislike](https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Application%20Support/RYD.bundle). The process is the same.
+- You can also add your localization to [YouPiP](https://github.com/PoomSmart/YouPiP/tree/main/layout/Library/Application%20Support/YouPiP.bundle), [YTUHD](https://github.com/PoomSmart/YTUHD/tree/master/layout/Library/Application%20Support/YTUHD.bundle), [Return YouTube Dislike](https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Application%20Support/RYD.bundle), and [YTABConfig](https://github.com/PoomSmart/YTABConfig/tree/main/layout/Library/Application%20Support/YTABC.bundle). The process is the same.
 
 ***
 ### Q: Is uYouPlus safe?
-- Eww, I'm afraid that I cannot answer this question. While most of the tweaks that are used in uYouPlus are open-source, there are two things that are not open-source:
+- Eww, I'm afraid that I cannot answer this question. While most of the tweaks that are used in uYouPlus are open-source, there several part that are not open-source:
   - **uYou**: uYou is not open-source. But MiRO92 - the developer of uYou, is a very well-known and talent developer in jailbreak community. If you don't trust him, then I think you have no one left to trust 🤷‍♂️
-  - The YouTube ipa: you always can decrypt YouTube yourself. 
+  - The **Open in YouTube** extensions.
+  - The **YouTube** IPA: you always can decrypt YouTube yourself. 
 - After all, I highly recommend you build your own iPA of uYouPlus. See [Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)
 
 ***
 ### Q: I got the IPA. How do I install uYouPlus?
-❖ There are many tools to sideload IPA to your phone. AltStore and Sideloadly are recommended. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. 
+❖ There are many tools to sideload IPA to your phone. TrollStore is recommended first (if possible). Other alternatives are AltStore and Sideloadly. See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation) for more info. 
 
 ***
 ### Q: Does it require jailbroken?
 - **_NO, IT DOES NOT_**. The IPA is made for non-jb users. 
-- If you are jailbroken but still want to use uYouPlus, you must sideload it with AltStore, Sideloadly, Reprovision... Using AppSync Unifield & Filza will not work (app crashes on launching).
+- If you are jailbroken but still want to use uYouPlus, you must sideload it with TrollStore, AltStore, Sideloadly, Reprovision... Using AppSync Unifield & Filza will not work (app crashes on launching).
 
 ***
 ### Q: Does it support ARM mac?
@@ -157,7 +158,7 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 
 ***
 ### Q: Why can't I receive push notifications?
-- Pusn notifications work out of the box if the app was installed by TrollStore.
+- Pusn notifications works out of the box if the app was installed by TrollStore.
 - Push notifications will not work on free developer account (limitation of sideload).
 - If you have a paid developer account, take a look at [SignTools](https://github.com/SignTools/SignTools). With some effort, you can fix push notifications.
 - Bear in mind that not all signing services support Push notifications.
@@ -165,12 +166,12 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 ***
 ### Q: What is the difference between uYou normal download and uYouLocal download?
 - MiRO explained it [here](https://www.reddit.com/r/jailbreak/comments/p5jekg/update_uyou_added_uyoulocal_feature_and_much_more/)
-- From my experience, uYouLocal has a better download speed!?
+- From my experience, uYouLocal has a better download speed.
 
 ***
 ### Q: Slow download speed?
 - Well, YouTube slows down the download speed. Let's hope MiRO92 could do something about it.
-- From my experience, uYouLocal has a better download speed!?
+- From my experience, uYouLocal has a better download speed.
 
 ***
 ### Q: uYou download is not working! (Error 200: Unable to move a file from…)
@@ -182,4 +183,4 @@ https://github.com/qnblackcat/uYouPlus/issues/360#issuecomment-1214204795
 ***
 ### Q: How many App ID does uYouPlus take? (AltStore)
 - When sideloading uYouPlus via AltStore, uYouPlus will take 3 App IDs by default. One app IDs for the app itself, and two app IDs for [Open in YouTube Extensions](https://github.com/CokePokes/YoutubeExtensions/). See [here](https://github.com/qnblackcat/uYouPlus/wiki/FAQ#q-deep-link-aka-open-in-the-youtube-app-doesnt-work) for more details.
-- Inshort: uYouPlus needs 3 app IDs to fully working. Remove app's extensions means no **Open in YouTube** workaround.
+- In short: uYouPlus needs 3 app IDs to fully working. Removing app's extensions means no **Open in YouTube** workaround.
