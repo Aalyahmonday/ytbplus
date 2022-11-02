@@ -43,9 +43,9 @@ Fortunately, there are two workarounds (not guarantee working 100%):
 - Translator are always welcome. If your language already exists then feel free to check it and/or improve it:
   1. Fork uYouPlus repo
   2. Go to `lang > uYouPlus.bundle`. Duplicate the template.lproj folder, and edit the duplicated folder's name to your <lang_code>.lproj id.
-For example: <ru.lproj> for Russia. For more details, visit: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  3. Translate each line below after each =
-  4. Open a Pull Request
+For example: `ru.lproj` for Russia. To be sure, see [Wiki - List of ISO codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+  3. Translate each line below after each `=`
+  4. Open a Pull Request.
 
 - You can also add your localization to [YouPiP](https://github.com/PoomSmart/YouPiP/tree/main/layout/Library/Application%20Support/YouPiP.bundle), [YTUHD](https://github.com/PoomSmart/YTUHD/tree/master/layout/Library/Application%20Support/YTUHD.bundle), [Return YouTube Dislike](https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Application%20Support/RYD.bundle), and [YTABConfig](https://github.com/PoomSmart/YTABConfig/tree/main/layout/Library/Application%20Support/YTABC.bundle). The process is the same.
 
