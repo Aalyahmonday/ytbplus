@@ -24,14 +24,14 @@ https://github.com/chrisharper22/sdks
 1. Clone this repo: `git clone --recursive https://github.com/qnblackcat/uYouPlus.git`
 2. Update submodules: `cd ./uYouPlus && git submodule update --remote --merge`
 3. Make the `buildapp.sh` script executable: `chmod +x ./buildapp.sh`
-4. _Optional: add or remove any tweaks you want. I highly recommend you take a look at the theos-jailed [wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage)._
+4. _Optional: open `Makefile` and add or remove any tweaks you want. You can also edit the bundle ID / display name of the app. I highly recommend you take a look at the theos-jailed [wiki](https://github.com/kabiroberai/theos-jailed/wiki/Usage)._
 5. Run the buildapp script: `./buildapp.sh`, and drag & drop the decrypted YouTube IPA into the terminal window when it asks you:
 
 ```
-git clone --recursive https://github.com/qnblackcat/uYouPlus.git
-cd ./uYouPlus && git submodule update --remote --merge
-chmod +x ./buildapp.sh
-./buildapp.sh
+$ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
+$ cd ./uYouPlus && git submodule update --remote --merge
+$ chmod +x ./buildapp.sh
+$ ./buildapp.sh
 ```
 ![Screen Shot 2](https://user-images.githubusercontent.com/52943116/168122339-cfa388cb-4956-48cc-a4d5-cfba22612bbf.png)
 
