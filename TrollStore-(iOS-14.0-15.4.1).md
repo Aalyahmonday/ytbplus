@@ -8,14 +8,17 @@
   - The download feature of uYou should work properly.
 
 ## Compatibility
-- TrollStore works on iOS 14.0 - 15.4.1, on iOS 15.5 beta 1 - iOS 15.5 beta 4 and on iOS 15.6 beta 1 - iOS 15.6 beta 5.
-- iOS 15.5 RC / full build is NOT supported.
-- Anything higher than iOS 15.6 beta 5 (including iOS 15.6 RC / full build) is NOT supported.
-- Anything lower than iOS 14.0 is NOT supported.
-Anything not supported right now will NEVER be supported, TrollStore is a one time thing, it will not receive compatibility updates in the future, please don't ask for it.
-- For more details, see [TrollStore - Compatibility](https://github.com/opa334/TrollStore#compatibility)
+| Version / Device | arm64 (A8 - A11) | arm64e (A12 - A15, M1) |
+| --- | --- | --- |
+| 13.7 and below | Not Supported | Not Supported |
+| 14.0 - 14.8.1 | checkra1n + TrollHelper | TrollHelperOTA (arm64e) |
+| 15.0 - 15.4.1 | TrollHelperOTA (iOS 15+) | TrollHelperOTA (iOS 15+) |
+| 15.5 beta 1 - 4 | TrollHelperOTA (iOS 15+) | TrollHelperOTA (iOS 15+) |
+| 15.5 RC | Not Supported | Not Supported |
+| 15.5 | Not Supported | Not Supported |
+| 15.6 beta 1 - 5 | SSH Ramdisk | TrollHelperOTA (arm64e) |
+| 15.6 RC1/2 | Not Supported | Not Supported |
+| 15.6 and above | Not Supported | Not Supported |
 
 ## How to install TrollStore?
-- The install progress is fully described on the homepage of TrollStore. Go check it out:
-  - [Installing TrollStore (No Jailbreak)](https://github.com/opa334/TrollStore#installing-trollstore-no-jailbreak)
-  - [Installing TrollStore (Jailbreak)](https://github.com/opa334/TrollStore#installing-trollstore-jailbreak)
+- The install progress is fully described on the homepage of TrollStore. Go check it out: [Installing TrollStore](https://github.com/opa334/TrollStore#installing-trollstore)
