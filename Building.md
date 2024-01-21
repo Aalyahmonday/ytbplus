@@ -1,7 +1,7 @@
 # Method 1: Github action
 ## Requirement:
 - A Github account.
-- A decrypted YouTube ipa. You must upload it to your cloud storage service (Dropbox, OneDrive, Google Drive or whatever you want). After that, get the direct download link to the IPA.
+- A decrypted YouTube ipa. You must upload it to a cloud storage service (Dropbox, OneDrive, Google Drive or whatever you want). After that, get the direct download link to the IPA.
 
 ## Step:
 1. Fork this repository.
