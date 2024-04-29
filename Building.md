@@ -5,17 +5,18 @@
 
 ## Step:
 1. Fork this repository.
-2. In your forked repository, go to the **Actions** tab > Select **Build and Release uYouPlus** action > **Run workflow** > Enter the direct link to the IPA._
+2. Upload the decrypted YouTube IPA to a cloud storage that can provide direct link to the IPA. For example: DropBox, OneDrive...
+3. In your forked repository, go to the **Actions** tab > Select **Build and Release uYouPlus** action > **Run workflow** > Enter the direct link to the decrypted YouTube IPA.
 
 ![Screenshot 2024-02-27 at 21 57 52](https://github.com/qnblackcat/uYouPlus/assets/52943116/1688dd42-4ff0-44a5-b1f0-c21476246312)
 
-3. That's it! Grab a coffee ☕️ It will take a while. You will see the IPA in the **Releases tab** of your repository.
+4. That's it! Grab a coffee ☕️ It will take a while. You will see the IPA in the **Releases tab** of your repository.
 
 ***
 
 # Method 2: theos-jailed
 ## Requirement:
-- Xcode 13+ & Xcode Command Line Tools
+- Xcode 14+ & Xcode Command Line Tools
 - theos & theos-jailed
 - A patched iOS 16.5 SDK (with Private Frameworks) in `theos/sdks`: https://github.com/theos/sdks
 
